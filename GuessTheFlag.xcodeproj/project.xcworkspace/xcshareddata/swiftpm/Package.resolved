@@ -1,0 +1,15 @@
+{
+  "originHash" : "397a558c15755faba56e01155f7ce00e2eb422963709f209b77bcf1ba1e7297a",
+  "pins" : [
+    {
+      "identity" : "confettiview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/blsage/ConfettiView",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4ffb2bc6c0fc3c24b4117e0a0491ed682ea8abe8"
+      }
+    }
+  ],
+  "version" : 3
+}

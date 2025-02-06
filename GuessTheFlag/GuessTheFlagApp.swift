@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct GuessTheFlagApp: App {
+    var score = HighScore()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartView()
+                .environmentObject(score)
         }
     }
 }
