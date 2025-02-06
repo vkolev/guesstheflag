@@ -94,6 +94,7 @@ struct ContentView: View {
             userScore += 1
             currentScore.score += 1
             if (currentScore.score > currentScore.highScore) {
+                // Show confetti every time the highScore is lower then the current score
                 showConfetti = true
             }
         } else {
