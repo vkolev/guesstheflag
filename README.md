@@ -7,9 +7,9 @@ It is an iOS app/game that asks the user to guess the flag for a given country.
 
 ## Screens
 
-<img src="./screens/start_screen.png" width="200" />
-<img src="./screens/game_screen.png" width="200" />
-<img src="./screens/correct_answer_confetti.png" width="200" />
+| Main                                                 | Game                                                | Effect                                                          |
+|------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------------|
+| <img src="./screens/start_screen.png" width="200" /> | <img src="./screens/game_screen.png" width="200" /> | <img src="./screens/correct_answer_confetti.png" width="200" /> |
 
 ## Flags
 
