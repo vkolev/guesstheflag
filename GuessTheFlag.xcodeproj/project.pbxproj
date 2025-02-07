@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		75D412F42D54D97100E9DDA4 /* ConfettiView in Frameworks */ = {isa = PBXBuildFile; productRef = 75D412F32D54D97100E9DDA4 /* ConfettiView */; };
+		75D413102D54F33800E9DDA4 /* String+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D4130F2D54F33300E9DDA4 /* String+extension.swift */; };
+		75D413152D54F62600E9DDA4 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 75D413142D54F62600E9DDA4 /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +33,8 @@
 		7588B3442D538F8B00921C4D /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7588B3542D538F8D00921C4D /* GuessTheFlagTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7588B35E2D538F8D00921C4D /* GuessTheFlagUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		75D4130F2D54F33300E9DDA4 /* String+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+extension.swift"; sourceTree = "<group>"; };
+		75D413142D54F62600E9DDA4 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -66,6 +70,8 @@
 		7588B33B2D538F8B00921C4D = {
 			isa = PBXGroup;
 			children = (
+				75D413142D54F62600E9DDA4 /* Localizable.xcstrings */,
+				75D4130F2D54F33300E9DDA4 /* String+extension.swift */,
 				7588B3462D538F8B00921C4D /* GuessTheFlag */,
 				7588B3452D538F8B00921C4D /* Products */,
 			);
@@ -177,6 +183,8 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
+				"bg-BG",
 			);
 			mainGroup = 7588B33B2D538F8B00921C4D;
 			minimizedProjectReferenceProxies = 1;
@@ -199,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75D413152D54F62600E9DDA4 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,6 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75D413102D54F33800E9DDA4 /* String+extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -315,6 +325,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -371,6 +382,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

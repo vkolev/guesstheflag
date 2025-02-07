@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Afghanistan" xml:space="preserve">
+        <source>Afghanistan</source>
+        <target>Afghanistan</target>
+        <note>Localizable.strings
+  GuessTheFlag
+
+  Created by Vladimir Kolev on 06.02.25.</note>
+      </trans-unit>
+      <trans-unit id="Albania" xml:space="preserve">
+        <source>Albania</source>
+        <target>Albania</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Algeria" xml:space="preserve">
+        <source>Algeria</source>
+        <target>Algeria</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="American Samoa" xml:space="preserve">
+        <source>American Samoa</source>
+        <target>American Samoa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Andorra" xml:space="preserve">
+        <source>Andorra</source>
+        <target>Andorra</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Angola" xml:space="preserve">
+        <source>Angola</source>
+        <target>Angola</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Anguilla" xml:space="preserve">
+        <source>Anguilla</source>
+        <target>Anguilla</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Antarctica" xml:space="preserve">
+        <source>Antarctica</source>
+        <target>Antarctica</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Antigua and Barbuda" xml:space="preserve">
+        <source>Antigua and Barbuda</source>
+        <target>Antigua and Barbuda</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Argentina" xml:space="preserve">
+        <source>Argentina</source>
+        <target>Argentina</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Armenia" xml:space="preserve">
+        <source>Armenia</source>
+        <target>Armenia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aruba" xml:space="preserve">
+        <source>Aruba</source>
+        <target>Aruba</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Australia" xml:space="preserve">
+        <source>Australia</source>
+        <target>Australia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Austria" xml:space="preserve">
+        <source>Austria</source>
+        <target>Austria</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Azerbaijan" xml:space="preserve">
+        <source>Azerbaijan</source>
+        <target>Azerbaijan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Åland Islands" xml:space="preserve">
+        <source>Åland Islands</source>
+        <target>Åland Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bahamas" xml:space="preserve">
+        <source>Bahamas</source>
+        <target>Bahamas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bahrain" xml:space="preserve">
+        <source>Bahrain</source>
+        <target>Bahrain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bangladesh" xml:space="preserve">
+        <source>Bangladesh</source>
+        <target>Bangladesh</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Barbados" xml:space="preserve">
+        <source>Barbados</source>
+        <target>Barbados</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Belarus" xml:space="preserve">
+        <source>Belarus</source>
+        <target>Belarus</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Belgium" xml:space="preserve">
+        <source>Belgium</source>
+        <target>Belgium</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Belize" xml:space="preserve">
+        <source>Belize</source>
+        <target>Belize</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Benin" xml:space="preserve">
+        <source>Benin</source>
+        <target>Benin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bermuda" xml:space="preserve">
+        <source>Bermuda</source>
+        <target>Bermuda</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bhutan" xml:space="preserve">
+        <source>Bhutan</source>
+        <target>Bhutan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bolivia, Plurinational State of" xml:space="preserve">
+        <source>Bolivia, Plurinational State of</source>
+        <target>Bolivia, Plurinational State of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bonaire, Sint Eustatius and Saba" xml:space="preserve">
+        <source>Bonaire, Sint Eustatius and Saba</source>
+        <target>Bonaire, Sint Eustatius and Saba</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bosnia and Herzegovina" xml:space="preserve">
+        <source>Bosnia and Herzegovina</source>
+        <target>Bosnia and Herzegovina</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Botswana" xml:space="preserve">
+        <source>Botswana</source>
+        <target>Botswana</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bouvet Island" xml:space="preserve">
+        <source>Bouvet Island</source>
+        <target>Bouvet Island</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Brazil" xml:space="preserve">
+        <source>Brazil</source>
+        <target>Brazil</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="British Indian Ocean Territory" xml:space="preserve">
+        <source>British Indian Ocean Territory</source>
+        <target>British Indian Ocean Territory</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Brunei Darussalam" xml:space="preserve">
+        <source>Brunei Darussalam</source>
+        <target>Brunei Darussalam</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bulgaria" xml:space="preserve">
+        <source>Bulgaria</source>
+        <target>Bulgaria</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Burkina Faso" xml:space="preserve">
+        <source>Burkina Faso</source>
+        <target>Burkina Faso</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Burundi" xml:space="preserve">
+        <source>Burundi</source>
+        <target>Burundi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cabo Verde" xml:space="preserve">
+        <source>Cabo Verde</source>
+        <target>Cabo Verde</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cambodia" xml:space="preserve">
+        <source>Cambodia</source>
+        <target>Cambodia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cameroon" xml:space="preserve">
+        <source>Cameroon</source>
+        <target>Cameroon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Canada" xml:space="preserve">
+        <source>Canada</source>
+        <target>Canada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cayman Islands" xml:space="preserve">
+        <source>Cayman Islands</source>
+        <target>Cayman Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Central African Republic" xml:space="preserve">
+        <source>Central African Republic</source>
+        <target>Central African Republic</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Chad" xml:space="preserve">
+        <source>Chad</source>
+        <target>Chad</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Chile" xml:space="preserve">
+        <source>Chile</source>
+        <target>Chile</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="China" xml:space="preserve">
+        <source>China</source>
+        <target>China</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Christmas Island" xml:space="preserve">
+        <source>Christmas Island</source>
+        <target>Christmas Island</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cocos (Keeling) Islands" xml:space="preserve">
+        <source>Cocos (Keeling) Islands</source>
+        <target>Cocos (Keeling) Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Colombia" xml:space="preserve">
+        <source>Colombia</source>
+        <target>Colombia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Comoros" xml:space="preserve">
+        <source>Comoros</source>
+        <target>Comoros</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Congo" xml:space="preserve">
+        <source>Congo</source>
+        <target>Congo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Congo, The Democratic Republic of the" xml:space="preserve">
+        <source>Congo, The Democratic Republic of the</source>
+        <target>Congo, The Democratic Republic of the</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cook Islands" xml:space="preserve">
+        <source>Cook Islands</source>
+        <target>Cook Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Costa Rica" xml:space="preserve">
+        <source>Costa Rica</source>
+        <target>Costa Rica</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Côte d'Ivoire" xml:space="preserve">
+        <source>Côte d'Ivoire</source>
+        <target>Côte d'Ivoire</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Croatia" xml:space="preserve">
+        <source>Croatia</source>
+        <target>Croatia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cuba" xml:space="preserve">
+        <source>Cuba</source>
+        <target>Cuba</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Curaçao" xml:space="preserve">
+        <source>Curaçao</source>
+        <target>Curaçao</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cyprus" xml:space="preserve">
+        <source>Cyprus</source>
+        <target>Cyprus</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Czechia" xml:space="preserve">
+        <source>Czechia</source>
+        <target>Czechia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Denmark" xml:space="preserve">
+        <source>Denmark</source>
+        <target>Denmark</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Djibouti" xml:space="preserve">
+        <source>Djibouti</source>
+        <target>Djibouti</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dominica" xml:space="preserve">
+        <source>Dominica</source>
+        <target>Dominica</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dominican Republic" xml:space="preserve">
+        <source>Dominican Republic</source>
+        <target>Dominican Republic</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ecuador" xml:space="preserve">
+        <source>Ecuador</source>
+        <target>Ecuador</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Egypt" xml:space="preserve">
+        <source>Egypt</source>
+        <target>Egypt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="El Salvador" xml:space="preserve">
+        <source>El Salvador</source>
+        <target>El Salvador</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Equatorial Guinea" xml:space="preserve">
+        <source>Equatorial Guinea</source>
+        <target>Equatorial Guinea</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Eritrea" xml:space="preserve">
+        <source>Eritrea</source>
+        <target>Eritrea</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Estonia" xml:space="preserve">
+        <source>Estonia</source>
+        <target>Estonia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Eswatini" xml:space="preserve">
+        <source>Eswatini</source>
+        <target>Eswatini</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ethiopia" xml:space="preserve">
+        <source>Ethiopia</source>
+        <target>Ethiopia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Falkland Islands (Malvinas)" xml:space="preserve">
+        <source>Falkland Islands (Malvinas)</source>
+        <target>Falkland Islands (Malvinas)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Faroe Islands" xml:space="preserve">
+        <source>Faroe Islands</source>
+        <target>Faroe Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fiji" xml:space="preserve">
+        <source>Fiji</source>
+        <target>Fiji</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Finland" xml:space="preserve">
+        <source>Finland</source>
+        <target>Finland</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="France" xml:space="preserve">
+        <source>France</source>
+        <target>France</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="French Guiana" xml:space="preserve">
+        <source>French Guiana</source>
+        <target>French Guiana</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="French Polynesia" xml:space="preserve">
+        <source>French Polynesia</source>
+        <target>French Polynesia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="French Southern Territories" xml:space="preserve">
+        <source>French Southern Territories</source>
+        <target>French Southern Territories</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gabon" xml:space="preserve">
+        <source>Gabon</source>
+        <target>Gabon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gambia" xml:space="preserve">
+        <source>Gambia</source>
+        <target>Gambia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Georgia" xml:space="preserve">
+        <source>Georgia</source>
+        <target>Georgia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Germany" xml:space="preserve">
+        <source>Germany</source>
+        <target>Germany</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ghana" xml:space="preserve">
+        <source>Ghana</source>
+        <target>Ghana</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gibraltar" xml:space="preserve">
+        <source>Gibraltar</source>
+        <target>Gibraltar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Greece" xml:space="preserve">
+        <source>Greece</source>
+        <target>Greece</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Greenland" xml:space="preserve">
+        <source>Greenland</source>
+        <target>Greenland</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Grenada" xml:space="preserve">
+        <source>Grenada</source>
+        <target>Grenada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guadeloupe" xml:space="preserve">
+        <source>Guadeloupe</source>
+        <target>Guadeloupe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guam" xml:space="preserve">
+        <source>Guam</source>
+        <target>Guam</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guatemala" xml:space="preserve">
+        <source>Guatemala</source>
+        <target>Guatemala</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guernsey" xml:space="preserve">
+        <source>Guernsey</source>
+        <target>Guernsey</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guess the Flag" xml:space="preserve">
+        <source>Guess the Flag</source>
+        <target>Guess the Flag</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Guinea" xml:space="preserve">
+        <source>Guinea</source>
+        <target>Guinea</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guinea-Bissau" xml:space="preserve">
+        <source>Guinea-Bissau</source>
+        <target>Guinea-Bissau</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guyana" xml:space="preserve">
+        <source>Guyana</source>
+        <target>Guyana</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Haiti" xml:space="preserve">
+        <source>Haiti</source>
+        <target>Haiti</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Heard Island and McDonald Islands" xml:space="preserve">
+        <source>Heard Island and McDonald Islands</source>
+        <target>Heard Island and McDonald Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="High score: %lld" xml:space="preserve">
+        <source>High score: %lld</source>
+        <target>High score: %lld</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Holy See (Vatican City State)" xml:space="preserve">
+        <source>Holy See (Vatican City State)</source>
+        <target>Holy See (Vatican City State)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Honduras" xml:space="preserve">
+        <source>Honduras</source>
+        <target>Honduras</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hong Kong" xml:space="preserve">
+        <source>Hong Kong</source>
+        <target>Hong Kong</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hungary" xml:space="preserve">
+        <source>Hungary</source>
+        <target>Hungary</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Iceland" xml:space="preserve">
+        <source>Iceland</source>
+        <target>Iceland</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="India" xml:space="preserve">
+        <source>India</source>
+        <target>India</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indonesia" xml:space="preserve">
+        <source>Indonesia</source>
+        <target>Indonesia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Iran, Islamic Republic of" xml:space="preserve">
+        <source>Iran, Islamic Republic of</source>
+        <target>Iran, Islamic Republic of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Iraq" xml:space="preserve">
+        <source>Iraq</source>
+        <target>Iraq</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ireland" xml:space="preserve">
+        <source>Ireland</source>
+        <target>Ireland</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Isle of Man" xml:space="preserve">
+        <source>Isle of Man</source>
+        <target>Isle of Man</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Israel" xml:space="preserve">
+        <source>Israel</source>
+        <target>Israel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Italy" xml:space="preserve">
+        <source>Italy</source>
+        <target>Italy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Jamaica" xml:space="preserve">
+        <source>Jamaica</source>
+        <target>Jamaica</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Japan" xml:space="preserve">
+        <source>Japan</source>
+        <target>Japan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Jersey" xml:space="preserve">
+        <source>Jersey</source>
+        <target>Jersey</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Jordan" xml:space="preserve">
+        <source>Jordan</source>
+        <target>Jordan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kazakhstan" xml:space="preserve">
+        <source>Kazakhstan</source>
+        <target>Kazakhstan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kenya" xml:space="preserve">
+        <source>Kenya</source>
+        <target>Kenya</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kiribati" xml:space="preserve">
+        <source>Kiribati</source>
+        <target>Kiribati</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Korea, Democratic People's Republic of" xml:space="preserve">
+        <source>Korea, Democratic People's Republic of</source>
+        <target>Korea, Democratic People's Republic of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Korea, Republic of" xml:space="preserve">
+        <source>Korea, Republic of</source>
+        <target>Korea, Republic of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kuwait" xml:space="preserve">
+        <source>Kuwait</source>
+        <target>Kuwait</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kyrgyzstan" xml:space="preserve">
+        <source>Kyrgyzstan</source>
+        <target>Kyrgyzstan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lao People's Democratic Republic" xml:space="preserve">
+        <source>Lao People's Democratic Republic</source>
+        <target>Lao People's Democratic Republic</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Latvia" xml:space="preserve">
+        <source>Latvia</source>
+        <target>Latvia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lebanon" xml:space="preserve">
+        <source>Lebanon</source>
+        <target>Lebanon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lesotho" xml:space="preserve">
+        <source>Lesotho</source>
+        <target>Lesotho</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Liberia" xml:space="preserve">
+        <source>Liberia</source>
+        <target>Liberia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Libya" xml:space="preserve">
+        <source>Libya</source>
+        <target>Libya</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Liechtenstein" xml:space="preserve">
+        <source>Liechtenstein</source>
+        <target>Liechtenstein</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lithuania" xml:space="preserve">
+        <source>Lithuania</source>
+        <target>Lithuania</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Luxembourg" xml:space="preserve">
+        <source>Luxembourg</source>
+        <target>Luxembourg</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Macao" xml:space="preserve">
+        <source>Macao</source>
+        <target>Macao</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Madagascar" xml:space="preserve">
+        <source>Madagascar</source>
+        <target>Madagascar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Malawi" xml:space="preserve">
+        <source>Malawi</source>
+        <target>Malawi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Malaysia" xml:space="preserve">
+        <source>Malaysia</source>
+        <target>Malaysia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Maldives" xml:space="preserve">
+        <source>Maldives</source>
+        <target>Maldives</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mali" xml:space="preserve">
+        <source>Mali</source>
+        <target>Mali</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Malta" xml:space="preserve">
+        <source>Malta</source>
+        <target>Malta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Marshall Islands" xml:space="preserve">
+        <source>Marshall Islands</source>
+        <target>Marshall Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Martinique" xml:space="preserve">
+        <source>Martinique</source>
+        <target>Martinique</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mauritania" xml:space="preserve">
+        <source>Mauritania</source>
+        <target>Mauritania</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mauritius" xml:space="preserve">
+        <source>Mauritius</source>
+        <target>Mauritius</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mayotte" xml:space="preserve">
+        <source>Mayotte</source>
+        <target>Mayotte</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mexico" xml:space="preserve">
+        <source>Mexico</source>
+        <target>Mexico</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Micronesia, Federated States of" xml:space="preserve">
+        <source>Micronesia, Federated States of</source>
+        <target>Micronesia, Federated States of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Moldova, Republic of" xml:space="preserve">
+        <source>Moldova, Republic of</source>
+        <target>Moldova, Republic of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Monaco" xml:space="preserve">
+        <source>Monaco</source>
+        <target>Monaco</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mongolia" xml:space="preserve">
+        <source>Mongolia</source>
+        <target>Mongolia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Montenegro" xml:space="preserve">
+        <source>Montenegro</source>
+        <target>Montenegro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Montserrat" xml:space="preserve">
+        <source>Montserrat</source>
+        <target>Montserrat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Morocco" xml:space="preserve">
+        <source>Morocco</source>
+        <target>Morocco</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mozambique" xml:space="preserve">
+        <source>Mozambique</source>
+        <target>Mozambique</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Myanmar" xml:space="preserve">
+        <source>Myanmar</source>
+        <target>Myanmar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Namibia" xml:space="preserve">
+        <source>Namibia</source>
+        <target>Namibia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nauru" xml:space="preserve">
+        <source>Nauru</source>
+        <target>Nauru</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nepal" xml:space="preserve">
+        <source>Nepal</source>
+        <target>Nepal</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Netherlands" xml:space="preserve">
+        <source>Netherlands</source>
+        <target>Netherlands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Caledonia" xml:space="preserve">
+        <source>New Caledonia</source>
+        <target>New Caledonia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Zealand" xml:space="preserve">
+        <source>New Zealand</source>
+        <target>New Zealand</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nicaragua" xml:space="preserve">
+        <source>Nicaragua</source>
+        <target>Nicaragua</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Niger" xml:space="preserve">
+        <source>Niger</source>
+        <target>Niger</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nigeria" xml:space="preserve">
+        <source>Nigeria</source>
+        <target>Nigeria</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Niue" xml:space="preserve">
+        <source>Niue</source>
+        <target>Niue</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Norfolk Island" xml:space="preserve">
+        <source>Norfolk Island</source>
+        <target>Norfolk Island</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="North Macedonia" xml:space="preserve">
+        <source>North Macedonia</source>
+        <target>North Macedonia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Northern Mariana Islands" xml:space="preserve">
+        <source>Northern Mariana Islands</source>
+        <target>Northern Mariana Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Norway" xml:space="preserve">
+        <source>Norway</source>
+        <target>Norway</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Oman" xml:space="preserve">
+        <source>Oman</source>
+        <target>Oman</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pakistan" xml:space="preserve">
+        <source>Pakistan</source>
+        <target>Pakistan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Palau" xml:space="preserve">
+        <source>Palau</source>
+        <target>Palau</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Palestine, State of" xml:space="preserve">
+        <source>Palestine, State of</source>
+        <target>Palestine, State of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Panama" xml:space="preserve">
+        <source>Panama</source>
+        <target>Panama</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Papua New Guinea" xml:space="preserve">
+        <source>Papua New Guinea</source>
+        <target>Papua New Guinea</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Paraguay" xml:space="preserve">
+        <source>Paraguay</source>
+        <target>Paraguay</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Peru" xml:space="preserve">
+        <source>Peru</source>
+        <target>Peru</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Philippines" xml:space="preserve">
+        <source>Philippines</source>
+        <target>Philippines</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pitcairn" xml:space="preserve">
+        <source>Pitcairn</source>
+        <target>Pitcairn</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Poland" xml:space="preserve">
+        <source>Poland</source>
+        <target>Poland</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Portugal" xml:space="preserve">
+        <source>Portugal</source>
+        <target>Portugal</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Puerto Rico" xml:space="preserve">
+        <source>Puerto Rico</source>
+        <target>Puerto Rico</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Qatar" xml:space="preserve">
+        <source>Qatar</source>
+        <target>Qatar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réunion" xml:space="preserve">
+        <source>Réunion</source>
+        <target>Réunion</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Romania" xml:space="preserve">
+        <source>Romania</source>
+        <target>Romania</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Russian Federation" xml:space="preserve">
+        <source>Russian Federation</source>
+        <target>Russian Federation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rwanda" xml:space="preserve">
+        <source>Rwanda</source>
+        <target>Rwanda</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saint Barthélemy" xml:space="preserve">
+        <source>Saint Barthélemy</source>
+        <target>Saint Barthélemy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saint Helena, Ascension and Tristan da Cunha" xml:space="preserve">
+        <source>Saint Helena, Ascension and Tristan da Cunha</source>
+        <target>Saint Helena, Ascension and Tristan da Cunha</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saint Kitts and Nevis" xml:space="preserve">
+        <source>Saint Kitts and Nevis</source>
+        <target>Saint Kitts and Nevis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saint Lucia" xml:space="preserve">
+        <source>Saint Lucia</source>
+        <target>Saint Lucia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saint Martin (French part)" xml:space="preserve">
+        <source>Saint Martin (French part)</source>
+        <target>Saint Martin (French part)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saint Pierre and Miquelon" xml:space="preserve">
+        <source>Saint Pierre and Miquelon</source>
+        <target>Saint Pierre and Miquelon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saint Vincent and the Grenadines" xml:space="preserve">
+        <source>Saint Vincent and the Grenadines</source>
+        <target>Saint Vincent and the Grenadines</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Samoa" xml:space="preserve">
+        <source>Samoa</source>
+        <target>Samoa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="San Marino" xml:space="preserve">
+        <source>San Marino</source>
+        <target>San Marino</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sao Tome and Principe" xml:space="preserve">
+        <source>Sao Tome and Principe</source>
+        <target>Sao Tome and Principe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saudi Arabia" xml:space="preserve">
+        <source>Saudi Arabia</source>
+        <target>Saudi Arabia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Score: %lld" xml:space="preserve">
+        <source>Score: %lld</source>
+        <target>Score: %lld</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Senegal" xml:space="preserve">
+        <source>Senegal</source>
+        <target>Senegal</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Serbia" xml:space="preserve">
+        <source>Serbia</source>
+        <target>Serbia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Seychelles" xml:space="preserve">
+        <source>Seychelles</source>
+        <target>Seychelles</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sierra Leone" xml:space="preserve">
+        <source>Sierra Leone</source>
+        <target>Sierra Leone</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Singapore" xml:space="preserve">
+        <source>Singapore</source>
+        <target>Singapore</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sint Maarten (Dutch part)" xml:space="preserve">
+        <source>Sint Maarten (Dutch part)</source>
+        <target>Sint Maarten (Dutch part)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Slovakia" xml:space="preserve">
+        <source>Slovakia</source>
+        <target>Slovakia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Slovenia" xml:space="preserve">
+        <source>Slovenia</source>
+        <target>Slovenia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Solomon Islands" xml:space="preserve">
+        <source>Solomon Islands</source>
+        <target>Solomon Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Somalia" xml:space="preserve">
+        <source>Somalia</source>
+        <target>Somalia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="South Africa" xml:space="preserve">
+        <source>South Africa</source>
+        <target>South Africa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="South Georgia and the South Sandwich Islands" xml:space="preserve">
+        <source>South Georgia and the South Sandwich Islands</source>
+        <target>South Georgia and the South Sandwich Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="South Sudan" xml:space="preserve">
+        <source>South Sudan</source>
+        <target>South Sudan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Spain" xml:space="preserve">
+        <source>Spain</source>
+        <target>Spain</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sri Lanka" xml:space="preserve">
+        <source>Sri Lanka</source>
+        <target>Sri Lanka</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start Game" xml:space="preserve">
+        <source>Start Game</source>
+        <target>Start Game</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sudan" xml:space="preserve">
+        <source>Sudan</source>
+        <target>Sudan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Suriname" xml:space="preserve">
+        <source>Suriname</source>
+        <target>Suriname</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Svalbard and Jan Mayen" xml:space="preserve">
+        <source>Svalbard and Jan Mayen</source>
+        <target>Svalbard and Jan Mayen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sweden" xml:space="preserve">
+        <source>Sweden</source>
+        <target>Sweden</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Switzerland" xml:space="preserve">
+        <source>Switzerland</source>
+        <target>Switzerland</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Syrian Arab Republic" xml:space="preserve">
+        <source>Syrian Arab Republic</source>
+        <target>Syrian Arab Republic</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taiwan, Province of China" xml:space="preserve">
+        <source>Taiwan, Province of China</source>
+        <target>Taiwan, Province of China</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tajikistan" xml:space="preserve">
+        <source>Tajikistan</source>
+        <target>Tajikistan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tanzania, United Republic of" xml:space="preserve">
+        <source>Tanzania, United Republic of</source>
+        <target>Tanzania, United Republic of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tap the flag of" xml:space="preserve">
+        <source>Tap the flag of</source>
+        <target>Tap the flag of</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thailand" xml:space="preserve">
+        <source>Thailand</source>
+        <target>Thailand</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Timor-Leste" xml:space="preserve">
+        <source>Timor-Leste</source>
+        <target>Timor-Leste</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Togo" xml:space="preserve">
+        <source>Togo</source>
+        <target>Togo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tokelau" xml:space="preserve">
+        <source>Tokelau</source>
+        <target>Tokelau</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tonga" xml:space="preserve">
+        <source>Tonga</source>
+        <target>Tonga</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trinidad and Tobago" xml:space="preserve">
+        <source>Trinidad and Tobago</source>
+        <target>Trinidad and Tobago</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tunisia" xml:space="preserve">
+        <source>Tunisia</source>
+        <target>Tunisia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Turkmenistan" xml:space="preserve">
+        <source>Turkmenistan</source>
+        <target>Turkmenistan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Turks and Caicos Islands" xml:space="preserve">
+        <source>Turks and Caicos Islands</source>
+        <target>Turks and Caicos Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tuvalu" xml:space="preserve">
+        <source>Tuvalu</source>
+        <target>Tuvalu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Türkiye" xml:space="preserve">
+        <source>Türkiye</source>
+        <target>Türkiye</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Uganda" xml:space="preserve">
+        <source>Uganda</source>
+        <target>Uganda</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ukraine" xml:space="preserve">
+        <source>Ukraine</source>
+        <target>Ukraine</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="United Arab Emirates" xml:space="preserve">
+        <source>United Arab Emirates</source>
+        <target>United Arab Emirates</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="United Kingdom" xml:space="preserve">
+        <source>United Kingdom</source>
+        <target>United Kingdom</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="United States" xml:space="preserve">
+        <source>United States</source>
+        <target>United States</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="United States Minor Outlying Islands" xml:space="preserve">
+        <source>United States Minor Outlying Islands</source>
+        <target>United States Minor Outlying Islands</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Uruguay" xml:space="preserve">
+        <source>Uruguay</source>
+        <target>Uruguay</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Uzbekistan" xml:space="preserve">
+        <source>Uzbekistan</source>
+        <target>Uzbekistan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vanuatu" xml:space="preserve">
+        <source>Vanuatu</source>
+        <target>Vanuatu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Venezuela, Bolivarian Republic of" xml:space="preserve">
+        <source>Venezuela, Bolivarian Republic of</source>
+        <target>Venezuela, Bolivarian Republic of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Viet Nam" xml:space="preserve">
+        <source>Viet Nam</source>
+        <target>Viet Nam</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Virgin Islands, British" xml:space="preserve">
+        <source>Virgin Islands, British</source>
+        <target>Virgin Islands, British</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Virgin Islands, U.S." xml:space="preserve">
+        <source>Virgin Islands, U.S.</source>
+        <target>Virgin Islands, U.S.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Wallis and Futuna" xml:space="preserve">
+        <source>Wallis and Futuna</source>
+        <target>Wallis and Futuna</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Western Sahara" xml:space="preserve">
+        <source>Western Sahara</source>
+        <target>Western Sahara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yemen" xml:space="preserve">
+        <source>Yemen</source>
+        <target>Yemen</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your score is %lld" xml:space="preserve">
+        <source>Your score is %lld</source>
+        <target>Your score is %lld</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zambia" xml:space="preserve">
+        <source>Zambia</source>
+        <target>Zambia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Zimbabwe" xml:space="preserve">
+        <source>Zimbabwe</source>
+        <target>Zimbabwe</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="GuessTheFlag-InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>GuessTheFlag</source>
+        <target state="new">GuessTheFlag</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <target state="new">Continue</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guess the Flag" xml:space="preserve">
+        <source>Guess the Flag</source>
+        <target state="new">Guess the Flag</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="High score: %lld" xml:space="preserve">
+        <source>High score: %lld</source>
+        <target state="new">High score: %lld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Score: %lld" xml:space="preserve">
+        <source>Score: %lld</source>
+        <target state="new">Score: %lld</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start Game" xml:space="preserve">
+        <source>Start Game</source>
+        <target state="new">Start Game</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tap the flag of" xml:space="preserve">
+        <source>Tap the flag of</source>
+        <target state="new">Tap the flag of</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your score is %lld" xml:space="preserve">
+        <source>Your score is %lld</source>
+        <target state="new">Your score is %lld</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

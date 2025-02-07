@@ -43,7 +43,7 @@ struct ContentView: View {
                             .foregroundStyle(.secondary)
                             .font(.subheadline.weight(.heavy))
                         
-                        Text(countries[correctAnswer])
+                        Text(LocalizedStringKey(countries[correctAnswer]))
                             .font(.largeTitle.weight(.semibold))
                     }
                     

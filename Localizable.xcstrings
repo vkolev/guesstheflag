@@ -1,0 +1,4310 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Afghanistan" : {
+      "comment" : "Localizable.strings\n  GuessTheFlag\n\n  Created by Vladimir Kolev on 06.02.25.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Афганистан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afghanistan"
+          }
+        }
+      }
+    },
+    "Åland Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оландски острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åland Islands"
+          }
+        }
+      }
+    },
+    "Albania" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Албания"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albania"
+          }
+        }
+      }
+    },
+    "Algeria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Алжир"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algeria"
+          }
+        }
+      }
+    },
+    "American Samoa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Американска Самоа"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "American Samoa"
+          }
+        }
+      }
+    },
+    "Andorra" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Андора"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andorra"
+          }
+        }
+      }
+    },
+    "Angola" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ангола"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angola"
+          }
+        }
+      }
+    },
+    "Anguilla" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ангулия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anguilla"
+          }
+        }
+      }
+    },
+    "Antarctica" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Антарктида"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antarctica"
+          }
+        }
+      }
+    },
+    "Antigua and Barbuda" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Антигуа и Барбуда"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antigua and Barbuda"
+          }
+        }
+      }
+    },
+    "Argentina" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аржентина"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argentina"
+          }
+        }
+      }
+    },
+    "Armenia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Армения"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Armenia"
+          }
+        }
+      }
+    },
+    "Aruba" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аруба"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aruba"
+          }
+        }
+      }
+    },
+    "Australia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Австралия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Australia"
+          }
+        }
+      }
+    },
+    "Austria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Австрия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Austria"
+          }
+        }
+      }
+    },
+    "Azerbaijan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Азербайджан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Azerbaijan"
+          }
+        }
+      }
+    },
+    "Bahamas" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бахами"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahamas"
+          }
+        }
+      }
+    },
+    "Bahrain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бахрейн"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahrain"
+          }
+        }
+      }
+    },
+    "Bangladesh" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бангладеш"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bangladesh"
+          }
+        }
+      }
+    },
+    "Barbados" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бадбадос"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barbados"
+          }
+        }
+      }
+    },
+    "Belarus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Беларус"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belarus"
+          }
+        }
+      }
+    },
+    "Belgium" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Белгия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belgium"
+          }
+        }
+      }
+    },
+    "Belize" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Белиз"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belize"
+          }
+        }
+      }
+    },
+    "Benin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бенин"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benin"
+          }
+        }
+      }
+    },
+    "Bermuda" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бермуда"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bermuda"
+          }
+        }
+      }
+    },
+    "Bhutan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бутан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bhutan"
+          }
+        }
+      }
+    },
+    "Bolivia, Plurinational State of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Боливия, Многонационална държава"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolivia, Plurinational State of"
+          }
+        }
+      }
+    },
+    "Bonaire, Sint Eustatius and Saba" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бонер"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonaire, Sint Eustatius and Saba"
+          }
+        }
+      }
+    },
+    "Bosnia and Herzegovina" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Босна и Херцеговина"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bosnia and Herzegovina"
+          }
+        }
+      }
+    },
+    "Botswana" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ботсвана"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Botswana"
+          }
+        }
+      }
+    },
+    "Bouvet Island" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Буве"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouvet Island"
+          }
+        }
+      }
+    },
+    "Brazil" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бразилия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brazil"
+          }
+        }
+      }
+    },
+    "British Indian Ocean Territory" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Британска Индоокеанска Територия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "British Indian Ocean Territory"
+          }
+        }
+      }
+    },
+    "Brunei Darussalam" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бруней Даруссалам"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brunei Darussalam"
+          }
+        }
+      }
+    },
+    "Bulgaria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "България"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulgaria"
+          }
+        }
+      }
+    },
+    "Burkina Faso" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Буркина Фасо"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Burkina Faso"
+          }
+        }
+      }
+    },
+    "Burundi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бурунди"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Burundi"
+          }
+        }
+      }
+    },
+    "Cabo Verde" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кабо Верде"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cabo Verde"
+          }
+        }
+      }
+    },
+    "Cambodia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камбоджа"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambodia"
+          }
+        }
+      }
+    },
+    "Cameroon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камерун"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cameroon"
+          }
+        }
+      }
+    },
+    "Canada" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Канада"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canada"
+          }
+        }
+      }
+    },
+    "Cayman Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каймански Острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cayman Islands"
+          }
+        }
+      }
+    },
+    "Central African Republic" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Централна Африканска Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Central African Republic"
+          }
+        }
+      }
+    },
+    "Chad" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чад"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chad"
+          }
+        }
+      }
+    },
+    "Chile" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чили"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chile"
+          }
+        }
+      }
+    },
+    "China" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Китай"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "China"
+          }
+        }
+      }
+    },
+    "Christmas Island" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Коледни Острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Christmas Island"
+          }
+        }
+      }
+    },
+    "Cocos (Keeling) Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кокосови острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cocos (Keeling) Islands"
+          }
+        }
+      }
+    },
+    "Colombia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Колумбия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colombia"
+          }
+        }
+      }
+    },
+    "Comoros" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Коморски Острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comoros"
+          }
+        }
+      }
+    },
+    "Congo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Конго"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Congo"
+          }
+        }
+      }
+    },
+    "Congo, The Democratic Republic of the" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Конго, Демократична република на"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Congo, The Democratic Republic of the"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продължи"
+          }
+        }
+      }
+    },
+    "Cook Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кук (острови)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cook Islands"
+          }
+        }
+      }
+    },
+    "Costa Rica" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Коста Рика"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costa Rica"
+          }
+        }
+      }
+    },
+    "Côte d'Ivoire" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кот д'Ивоар"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Côte d'Ivoire"
+          }
+        }
+      }
+    },
+    "Croatia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хърватия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Croatia"
+          }
+        }
+      }
+    },
+    "Cuba" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Куба"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuba"
+          }
+        }
+      }
+    },
+    "Curaçao" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кюрасао"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Curaçao"
+          }
+        }
+      }
+    },
+    "Cyprus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кипът"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyprus"
+          }
+        }
+      }
+    },
+    "Czechia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чехия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Czechia"
+          }
+        }
+      }
+    },
+    "Denmark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дания"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denmark"
+          }
+        }
+      }
+    },
+    "Djibouti" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джибути"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Djibouti"
+          }
+        }
+      }
+    },
+    "Dominica" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доминикана"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dominica"
+          }
+        }
+      }
+    },
+    "Dominican Republic" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доминиканска Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dominican Republic"
+          }
+        }
+      }
+    },
+    "Ecuador" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Еквадор"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ecuador"
+          }
+        }
+      }
+    },
+    "Egypt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Египет"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egypt"
+          }
+        }
+      }
+    },
+    "El Salvador" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ел Салвадор"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Salvador"
+          }
+        }
+      }
+    },
+    "Equatorial Guinea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Екваториална Гвинея"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equatorial Guinea"
+          }
+        }
+      }
+    },
+    "Eritrea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Еритрея"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eritrea"
+          }
+        }
+      }
+    },
+    "Estonia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Естония"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estonia"
+          }
+        }
+      }
+    },
+    "Eswatini" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Есватини"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eswatini"
+          }
+        }
+      }
+    },
+    "Ethiopia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Етиопия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ethiopia"
+          }
+        }
+      }
+    },
+    "Falkland Islands (Malvinas)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фалкландски Острови (Малдиви)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falkland Islands (Malvinas)"
+          }
+        }
+      }
+    },
+    "Faroe Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фарьорски острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faroe Islands"
+          }
+        }
+      }
+    },
+    "Fiji" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фиджи"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiji"
+          }
+        }
+      }
+    },
+    "Finland" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Финландия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finland"
+          }
+        }
+      }
+    },
+    "France" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Франция"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "France"
+          }
+        }
+      }
+    },
+    "French Guiana" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Френска Гвинея"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "French Guiana"
+          }
+        }
+      }
+    },
+    "French Polynesia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Френска Полинезия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "French Polynesia"
+          }
+        }
+      }
+    },
+    "French Southern Territories" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Френски Южни Територии"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "French Southern Territories"
+          }
+        }
+      }
+    },
+    "Gabon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Габон"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gabon"
+          }
+        }
+      }
+    },
+    "Gambia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гамбия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gambia"
+          }
+        }
+      }
+    },
+    "Georgia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Грузия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Georgia"
+          }
+        }
+      }
+    },
+    "Germany" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Германия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Germany"
+          }
+        }
+      }
+    },
+    "Ghana" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гана"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghana"
+          }
+        }
+      }
+    },
+    "Gibraltar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гибралтар"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gibraltar"
+          }
+        }
+      }
+    },
+    "Greece" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гърция"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Greece"
+          }
+        }
+      }
+    },
+    "Greenland" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гренландия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Greenland"
+          }
+        }
+      }
+    },
+    "Grenada" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гренада"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grenada"
+          }
+        }
+      }
+    },
+    "Guadeloupe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гваделупа"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guadeloupe"
+          }
+        }
+      }
+    },
+    "Guam" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гуам"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guam"
+          }
+        }
+      }
+    },
+    "Guatemala" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гватемала"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guatemala"
+          }
+        }
+      }
+    },
+    "Guernsey" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гернси"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guernsey"
+          }
+        }
+      }
+    },
+    "Guess the Flag" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Познай Флага"
+          }
+        }
+      }
+    },
+    "Guinea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гвинея"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guinea"
+          }
+        }
+      }
+    },
+    "Guinea-Bissau" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гвинея-Бисау"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guinea-Bissau"
+          }
+        }
+      }
+    },
+    "Guyana" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гвиана"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guyana"
+          }
+        }
+      }
+    },
+    "Haiti" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хаити"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haiti"
+          }
+        }
+      }
+    },
+    "Heard Island and McDonald Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хърд И Макдоналд"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heard Island and McDonald Islands"
+          }
+        }
+      }
+    },
+    "High score: %lld" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рекорд: %lld"
+          }
+        }
+      }
+    },
+    "Holy See (Vatican City State)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свети Престол (Ватиканска Град Държава)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Holy See (Vatican City State)"
+          }
+        }
+      }
+    },
+    "Honduras" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хондурас"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honduras"
+          }
+        }
+      }
+    },
+    "Hong Kong" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хонг Конг"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hong Kong"
+          }
+        }
+      }
+    },
+    "Hungary" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Унгария"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hungary"
+          }
+        }
+      }
+    },
+    "Iceland" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Исландия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iceland"
+          }
+        }
+      }
+    },
+    "India" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Индия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "India"
+          }
+        }
+      }
+    },
+    "Indonesia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Индонезия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indonesia"
+          }
+        }
+      }
+    },
+    "Iran, Islamic Republic of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Иран, Ислямска Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iran, Islamic Republic of"
+          }
+        }
+      }
+    },
+    "Iraq" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ирак"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iraq"
+          }
+        }
+      }
+    },
+    "Ireland" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ирландия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ireland"
+          }
+        }
+      }
+    },
+    "Isle of Man" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ман (остров)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isle of Man"
+          }
+        }
+      }
+    },
+    "Israel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Израел"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Israel"
+          }
+        }
+      }
+    },
+    "Italy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Италия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Italy"
+          }
+        }
+      }
+    },
+    "Jamaica" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ямайка"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jamaica"
+          }
+        }
+      }
+    },
+    "Japan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Япония"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japan"
+          }
+        }
+      }
+    },
+    "Jersey" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джърси"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jersey"
+          }
+        }
+      }
+    },
+    "Jordan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Йордания"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jordan"
+          }
+        }
+      }
+    },
+    "Kazakhstan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Казахстан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kazakhstan"
+          }
+        }
+      }
+    },
+    "Kenya" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кения"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kenya"
+          }
+        }
+      }
+    },
+    "Kiribati" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кирибати"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiribati"
+          }
+        }
+      }
+    },
+    "Korea, Democratic People's Republic of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Корея, Демократична Народна Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korea, Democratic People's Republic of"
+          }
+        }
+      }
+    },
+    "Korea, Republic of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Корея, Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korea, Republic of"
+          }
+        }
+      }
+    },
+    "Kuwait" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кувейт"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuwait"
+          }
+        }
+      }
+    },
+    "Kyrgyzstan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Киргистан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kyrgyzstan"
+          }
+        }
+      }
+    },
+    "Lao People's Democratic Republic" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лаос, Народнодемократична Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lao People's Democratic Republic"
+          }
+        }
+      }
+    },
+    "Latvia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Латвия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Latvia"
+          }
+        }
+      }
+    },
+    "Lebanon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ливан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebanon"
+          }
+        }
+      }
+    },
+    "Lesotho" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лесото"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lesotho"
+          }
+        }
+      }
+    },
+    "Liberia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Либерия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liberia"
+          }
+        }
+      }
+    },
+    "Libya" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Либия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libya"
+          }
+        }
+      }
+    },
+    "Liechtenstein" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лихтенщайн"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liechtenstein"
+          }
+        }
+      }
+    },
+    "Lithuania" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Литва"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lithuania"
+          }
+        }
+      }
+    },
+    "Luxembourg" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Люксембург"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luxembourg"
+          }
+        }
+      }
+    },
+    "Macao" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Макао"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Macao"
+          }
+        }
+      }
+    },
+    "Madagascar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мадагаскар"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Madagascar"
+          }
+        }
+      }
+    },
+    "Malawi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Малави"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malawi"
+          }
+        }
+      }
+    },
+    "Malaysia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Малайзия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malaysia"
+          }
+        }
+      }
+    },
+    "Maldives" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Малдиви"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maldives"
+          }
+        }
+      }
+    },
+    "Mali" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мали"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mali"
+          }
+        }
+      }
+    },
+    "Malta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Малта"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malta"
+          }
+        }
+      }
+    },
+    "Marshall Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Маршалови Острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marshall Islands"
+          }
+        }
+      }
+    },
+    "Martinique" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мартиника"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Martinique"
+          }
+        }
+      }
+    },
+    "Mauritania" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мавритания"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mauritania"
+          }
+        }
+      }
+    },
+    "Mauritius" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мавриций"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mauritius"
+          }
+        }
+      }
+    },
+    "Mayotte" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Майот"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mayotte"
+          }
+        }
+      }
+    },
+    "Mexico" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мексико"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mexico"
+          }
+        }
+      }
+    },
+    "Micronesia, Federated States of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Микронезия, Федералния Щати"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Micronesia, Federated States of"
+          }
+        }
+      }
+    },
+    "Moldova, Republic of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Молдова, Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moldova, Republic of"
+          }
+        }
+      }
+    },
+    "Monaco" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Монако"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monaco"
+          }
+        }
+      }
+    },
+    "Mongolia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Монголия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mongolia"
+          }
+        }
+      }
+    },
+    "Montenegro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Черна Гора"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montenegro"
+          }
+        }
+      }
+    },
+    "Montserrat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Монсерат"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montserrat"
+          }
+        }
+      }
+    },
+    "Morocco" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мароко"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morocco"
+          }
+        }
+      }
+    },
+    "Mozambique" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мозамбик"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mozambique"
+          }
+        }
+      }
+    },
+    "Myanmar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мианмар"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Myanmar"
+          }
+        }
+      }
+    },
+    "Namibia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Намибия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namibia"
+          }
+        }
+      }
+    },
+    "Nauru" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Науру"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nauru"
+          }
+        }
+      }
+    },
+    "Nepal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Непал"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nepal"
+          }
+        }
+      }
+    },
+    "Netherlands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нидерландия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Netherlands"
+          }
+        }
+      }
+    },
+    "New Caledonia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова Каледония"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Caledonia"
+          }
+        }
+      }
+    },
+    "New Zealand" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова Зеландия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Zealand"
+          }
+        }
+      }
+    },
+    "Nicaragua" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Никарагуа"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicaragua"
+          }
+        }
+      }
+    },
+    "Niger" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нигер"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niger"
+          }
+        }
+      }
+    },
+    "Nigeria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нигерия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nigeria"
+          }
+        }
+      }
+    },
+    "Niue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ниуе"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niue"
+          }
+        }
+      }
+    },
+    "Norfolk Island" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Норфолк Остров"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Norfolk Island"
+          }
+        }
+      }
+    },
+    "North Macedonia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Северна Македония"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "North Macedonia"
+          }
+        }
+      }
+    },
+    "Northern Mariana Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Северни Мариански Острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Northern Mariana Islands"
+          }
+        }
+      }
+    },
+    "Norway" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Норвегия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Norway"
+          }
+        }
+      }
+    },
+    "Oman" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оман"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oman"
+          }
+        }
+      }
+    },
+    "Pakistan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пакистан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pakistan"
+          }
+        }
+      }
+    },
+    "Palau" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Палау"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palau"
+          }
+        }
+      }
+    },
+    "Palestine, State of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Палестина, Държава"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palestine, State of"
+          }
+        }
+      }
+    },
+    "Panama" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Панама"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panama"
+          }
+        }
+      }
+    },
+    "Papua New Guinea" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Папуа Нова Гвинея"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Papua New Guinea"
+          }
+        }
+      }
+    },
+    "Paraguay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Парагвай"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paraguay"
+          }
+        }
+      }
+    },
+    "Peru" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перу"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peru"
+          }
+        }
+      }
+    },
+    "Philippines" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Филипини"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philippines"
+          }
+        }
+      }
+    },
+    "Pitcairn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Питкерн"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pitcairn"
+          }
+        }
+      }
+    },
+    "Poland" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Полша"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poland"
+          }
+        }
+      }
+    },
+    "Portugal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Португалия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portugal"
+          }
+        }
+      }
+    },
+    "Puerto Rico" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пуерто Рико"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puerto Rico"
+          }
+        }
+      }
+    },
+    "Qatar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Катар"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qatar"
+          }
+        }
+      }
+    },
+    "Réunion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Реюнион"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réunion"
+          }
+        }
+      }
+    },
+    "Romania" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Румъния"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Romania"
+          }
+        }
+      }
+    },
+    "Russian Federation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Руска Федерация"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Russian Federation"
+          }
+        }
+      }
+    },
+    "Rwanda" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Руанда"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rwanda"
+          }
+        }
+      }
+    },
+    "Saint Barthélemy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сен Бартелми"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint Barthélemy"
+          }
+        }
+      }
+    },
+    "Saint Helena, Ascension and Tristan da Cunha" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Света Елена, Възнесение и Тристан да Куня"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint Helena, Ascension and Tristan da Cunha"
+          }
+        }
+      }
+    },
+    "Saint Kitts and Nevis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сейнт Китс и Невис"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint Kitts and Nevis"
+          }
+        }
+      }
+    },
+    "Saint Lucia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сейнт Лусия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint Lucia"
+          }
+        }
+      }
+    },
+    "Saint Martin (French part)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сен Мартен (френска част)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint Martin (French part)"
+          }
+        }
+      }
+    },
+    "Saint Pierre and Miquelon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сен Пиер и Микелон"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint Pierre and Miquelon"
+          }
+        }
+      }
+    },
+    "Saint Vincent and the Grenadines" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сейнт Винсент и Гренадини"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint Vincent and the Grenadines"
+          }
+        }
+      }
+    },
+    "Samoa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Самоа"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samoa"
+          }
+        }
+      }
+    },
+    "San Marino" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сан Марино"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San Marino"
+          }
+        }
+      }
+    },
+    "Sao Tome and Principe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сао Томе и Принсипи"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao Tome and Principe"
+          }
+        }
+      }
+    },
+    "Saudi Arabia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Саудитска Арабия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saudi Arabia"
+          }
+        }
+      }
+    },
+    "Score: %lld" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Точки: %lld"
+          }
+        }
+      }
+    },
+    "Senegal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сенегал"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senegal"
+          }
+        }
+      }
+    },
+    "Serbia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сърбия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serbia"
+          }
+        }
+      }
+    },
+    "Seychelles" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сейшели"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seychelles"
+          }
+        }
+      }
+    },
+    "Sierra Leone" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сиера Леоне"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sierra Leone"
+          }
+        }
+      }
+    },
+    "Singapore" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сингапур"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Singapore"
+          }
+        }
+      }
+    },
+    "Sint Maarten (Dutch part)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сина Мартен (датска част)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sint Maarten (Dutch part)"
+          }
+        }
+      }
+    },
+    "Slovakia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Словакия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slovakia"
+          }
+        }
+      }
+    },
+    "Slovenia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Словения"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slovenia"
+          }
+        }
+      }
+    },
+    "Solomon Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Соломонови Острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solomon Islands"
+          }
+        }
+      }
+    },
+    "Somalia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сомалия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somalia"
+          }
+        }
+      }
+    },
+    "South Africa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Южна Африка"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "South Africa"
+          }
+        }
+      }
+    },
+    "South Georgia and the South Sandwich Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Южна Джорджия и Южни Сандвичеви острови"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "South Georgia and the South Sandwich Islands"
+          }
+        }
+      }
+    },
+    "South Sudan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Южен Судан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "South Sudan"
+          }
+        }
+      }
+    },
+    "Spain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Испания"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spain"
+          }
+        }
+      }
+    },
+    "Sri Lanka" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шри Ланка"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sri Lanka"
+          }
+        }
+      }
+    },
+    "Start Game" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нова Игра"
+          }
+        }
+      }
+    },
+    "Sudan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Судан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudan"
+          }
+        }
+      }
+    },
+    "Suriname" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Суринам"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suriname"
+          }
+        }
+      }
+    },
+    "Svalbard and Jan Mayen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свалбард и Ян Майен"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svalbard and Jan Mayen"
+          }
+        }
+      }
+    },
+    "Sweden" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Швеция"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sweden"
+          }
+        }
+      }
+    },
+    "Switzerland" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Швейцария"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Switzerland"
+          }
+        }
+      }
+    },
+    "Syrian Arab Republic" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сирия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Syrian Arab Republic"
+          }
+        }
+      }
+    },
+    "Taiwan, Province of China" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тайван, Провинция на Китай"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taiwan, Province of China"
+          }
+        }
+      }
+    },
+    "Tajikistan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Таджикистан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tajikistan"
+          }
+        }
+      }
+    },
+    "Tanzania, United Republic of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Танзания, Обединена Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tanzania, United Republic of"
+          }
+        }
+      }
+    },
+    "Tap the flag of" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Избери флага на"
+          }
+        }
+      }
+    },
+    "Thailand" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тайланд"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thailand"
+          }
+        }
+      }
+    },
+    "Timor-Leste" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Източен Тимор"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timor-Leste"
+          }
+        }
+      }
+    },
+    "Togo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Того"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Togo"
+          }
+        }
+      }
+    },
+    "Tokelau" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Токелау"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tokelau"
+          }
+        }
+      }
+    },
+    "Tonga" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тонга"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tonga"
+          }
+        }
+      }
+    },
+    "Trinidad and Tobago" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тринидад и Тобаго"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trinidad and Tobago"
+          }
+        }
+      }
+    },
+    "Tunisia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тунис"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tunisia"
+          }
+        }
+      }
+    },
+    "Türkiye" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Турция"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Türkiye"
+          }
+        }
+      }
+    },
+    "Turkmenistan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Туркменистан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turkmenistan"
+          }
+        }
+      }
+    },
+    "Turks and Caicos Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Търкс и Кайкос"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turks and Caicos Islands"
+          }
+        }
+      }
+    },
+    "Tuvalu" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тувалу"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuvalu"
+          }
+        }
+      }
+    },
+    "Uganda" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уганда"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uganda"
+          }
+        }
+      }
+    },
+    "Ukraine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Украйна"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukraine"
+          }
+        }
+      }
+    },
+    "United Arab Emirates" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обединени Арабски Емирства"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "United Arab Emirates"
+          }
+        }
+      }
+    },
+    "United Kingdom" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обединено Кралство"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "United Kingdom"
+          }
+        }
+      }
+    },
+    "United States" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Съединени Американски Щати"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "United States"
+          }
+        }
+      }
+    },
+    "United States Minor Outlying Islands" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Малки далечни острови на САЩ"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "United States Minor Outlying Islands"
+          }
+        }
+      }
+    },
+    "Uruguay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уругвай"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uruguay"
+          }
+        }
+      }
+    },
+    "Uzbekistan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Узбекистан"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uzbekistan"
+          }
+        }
+      }
+    },
+    "Vanuatu" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вануату"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanuatu"
+          }
+        }
+      }
+    },
+    "Venezuela, Bolivarian Republic of" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Венецуела, Боливарска Република"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Venezuela, Bolivarian Republic of"
+          }
+        }
+      }
+    },
+    "Viet Nam" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виетнам"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viet Nam"
+          }
+        }
+      }
+    },
+    "Virgin Islands, British" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вирджински Острови, Британски"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Virgin Islands, British"
+          }
+        }
+      }
+    },
+    "Virgin Islands, U.S." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вирджински Острови, С.Щ."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Virgin Islands, U.S."
+          }
+        }
+      }
+    },
+    "Wallis and Futuna" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уолис и Футуна"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wallis and Futuna"
+          }
+        }
+      }
+    },
+    "Western Sahara" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Западна Сахара"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Western Sahara"
+          }
+        }
+      }
+    },
+    "Yemen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Йемен"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yemen"
+          }
+        }
+      }
+    },
+    "Your score is %lld" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Твоят резултат е: %lld"
+          }
+        }
+      }
+    },
+    "Zambia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Замбия"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zambia"
+          }
+        }
+      }
+    },
+    "Zimbabwe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зимбабве"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zimbabwe"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

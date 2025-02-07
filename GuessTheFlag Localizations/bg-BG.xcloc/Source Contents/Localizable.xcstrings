@@ -1,0 +1,27 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Continue" : {
+
+    },
+    "Guess the Flag" : {
+
+    },
+    "High score: %lld" : {
+
+    },
+    "Score: %lld" : {
+
+    },
+    "Start Game" : {
+
+    },
+    "Tap the flag of" : {
+
+    },
+    "Your score is %lld" : {
+
+    }
+  },
+  "version" : "1.0"
+}
