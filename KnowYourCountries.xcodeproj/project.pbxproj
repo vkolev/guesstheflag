@@ -32,15 +32,15 @@
 
 /* Begin PBXFileReference section */
 		7506B07A2D560DD200A3D604 /* GuessTheFlag-InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = "GuessTheFlag-InfoPlist.xcstrings"; sourceTree = "<group>"; };
-		7588B3442D538F8B00921C4D /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7588B3542D538F8D00921C4D /* GuessTheFlagTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7588B35E2D538F8D00921C4D /* GuessTheFlagUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7588B3442D538F8B00921C4D /* KnowYourCountries.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KnowYourCountries.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7588B3542D538F8D00921C4D /* KnowYourCountriesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KnowYourCountriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7588B35E2D538F8D00921C4D /* KnowYourCountriesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KnowYourCountriesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		75D4130F2D54F33300E9DDA4 /* String+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+extension.swift"; sourceTree = "<group>"; };
 		75D413142D54F62600E9DDA4 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7588B3462D538F8B00921C4D /* GuessTheFlag */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = GuessTheFlag; sourceTree = "<group>"; };
+		7588B3462D538F8B00921C4D /* KnowYourCountries */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = KnowYourCountries; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 				75D413142D54F62600E9DDA4 /* Localizable.xcstrings */,
 				7506B07A2D560DD200A3D604 /* GuessTheFlag-InfoPlist.xcstrings */,
 				75D4130F2D54F33300E9DDA4 /* String+extension.swift */,
-				7588B3462D538F8B00921C4D /* GuessTheFlag */,
+				7588B3462D538F8B00921C4D /* KnowYourCountries */,
 				7588B3452D538F8B00921C4D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -83,9 +83,9 @@
 		7588B3452D538F8B00921C4D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7588B3442D538F8B00921C4D /* GuessTheFlag.app */,
-				7588B3542D538F8D00921C4D /* GuessTheFlagTests.xctest */,
-				7588B35E2D538F8D00921C4D /* GuessTheFlagUITests.xctest */,
+				7588B3442D538F8B00921C4D /* KnowYourCountries.app */,
+				7588B3542D538F8D00921C4D /* KnowYourCountriesTests.xctest */,
+				7588B35E2D538F8D00921C4D /* KnowYourCountriesUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -93,9 +93,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7588B3432D538F8B00921C4D /* GuessTheFlag */ = {
+		7588B3432D538F8B00921C4D /* KnowYourCountries */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7588B3682D538F8D00921C4D /* Build configuration list for PBXNativeTarget "GuessTheFlag" */;
+			buildConfigurationList = 7588B3682D538F8D00921C4D /* Build configuration list for PBXNativeTarget "KnowYourCountries" */;
 			buildPhases = (
 				7588B3402D538F8B00921C4D /* Sources */,
 				7588B3412D538F8B00921C4D /* Frameworks */,
@@ -106,19 +106,19 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7588B3462D538F8B00921C4D /* GuessTheFlag */,
+				7588B3462D538F8B00921C4D /* KnowYourCountries */,
 			);
-			name = GuessTheFlag;
+			name = KnowYourCountries;
 			packageProductDependencies = (
 				75D412F32D54D97100E9DDA4 /* ConfettiView */,
 			);
 			productName = GuessTheFlag;
-			productReference = 7588B3442D538F8B00921C4D /* GuessTheFlag.app */;
+			productReference = 7588B3442D538F8B00921C4D /* KnowYourCountries.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7588B3532D538F8D00921C4D /* GuessTheFlagTests */ = {
+		7588B3532D538F8D00921C4D /* KnowYourCountriesTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7588B36B2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "GuessTheFlagTests" */;
+			buildConfigurationList = 7588B36B2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "KnowYourCountriesTests" */;
 			buildPhases = (
 				7588B3502D538F8D00921C4D /* Sources */,
 				7588B3512D538F8D00921C4D /* Frameworks */,
@@ -129,16 +129,16 @@
 			dependencies = (
 				7588B3562D538F8D00921C4D /* PBXTargetDependency */,
 			);
-			name = GuessTheFlagTests;
+			name = KnowYourCountriesTests;
 			packageProductDependencies = (
 			);
 			productName = GuessTheFlagTests;
-			productReference = 7588B3542D538F8D00921C4D /* GuessTheFlagTests.xctest */;
+			productReference = 7588B3542D538F8D00921C4D /* KnowYourCountriesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7588B35D2D538F8D00921C4D /* GuessTheFlagUITests */ = {
+		7588B35D2D538F8D00921C4D /* KnowYourCountriesUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7588B36E2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "GuessTheFlagUITests" */;
+			buildConfigurationList = 7588B36E2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "KnowYourCountriesUITests" */;
 			buildPhases = (
 				7588B35A2D538F8D00921C4D /* Sources */,
 				7588B35B2D538F8D00921C4D /* Frameworks */,
@@ -149,11 +149,11 @@
 			dependencies = (
 				7588B3602D538F8D00921C4D /* PBXTargetDependency */,
 			);
-			name = GuessTheFlagUITests;
+			name = KnowYourCountriesUITests;
 			packageProductDependencies = (
 			);
 			productName = GuessTheFlagUITests;
-			productReference = 7588B35E2D538F8D00921C4D /* GuessTheFlagUITests.xctest */;
+			productReference = 7588B35E2D538F8D00921C4D /* KnowYourCountriesUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -179,7 +179,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7588B33F2D538F8B00921C4D /* Build configuration list for PBXProject "GuessTheFlag" */;
+			buildConfigurationList = 7588B33F2D538F8B00921C4D /* Build configuration list for PBXProject "KnowYourCountries" */;
 			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -198,9 +198,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7588B3432D538F8B00921C4D /* GuessTheFlag */,
-				7588B3532D538F8D00921C4D /* GuessTheFlagTests */,
-				7588B35D2D538F8D00921C4D /* GuessTheFlagUITests */,
+				7588B3432D538F8B00921C4D /* KnowYourCountries */,
+				7588B3532D538F8D00921C4D /* KnowYourCountriesTests */,
+				7588B35D2D538F8D00921C4D /* KnowYourCountriesUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -259,12 +259,12 @@
 /* Begin PBXTargetDependency section */
 		7588B3562D538F8D00921C4D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7588B3432D538F8B00921C4D /* GuessTheFlag */;
+			target = 7588B3432D538F8B00921C4D /* KnowYourCountries */;
 			targetProxy = 7588B3552D538F8D00921C4D /* PBXContainerItemProxy */;
 		};
 		7588B3602D538F8D00921C4D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7588B3432D538F8B00921C4D /* GuessTheFlag */;
+			target = 7588B3432D538F8B00921C4D /* KnowYourCountries */;
 			targetProxy = 7588B35F2D538F8D00921C4D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -466,7 +466,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GuessTheFlag.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GuessTheFlag";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KnowYourCountries.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KnowYourCountries";
 			};
 			name = Debug;
 		};
@@ -485,7 +485,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GuessTheFlag.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GuessTheFlag";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KnowYourCountries.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KnowYourCountries";
 			};
 			name = Release;
 		};
@@ -526,7 +526,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7588B33F2D538F8B00921C4D /* Build configuration list for PBXProject "GuessTheFlag" */ = {
+		7588B33F2D538F8B00921C4D /* Build configuration list for PBXProject "KnowYourCountries" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7588B3662D538F8D00921C4D /* Debug */,
@@ -535,7 +535,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7588B3682D538F8D00921C4D /* Build configuration list for PBXNativeTarget "GuessTheFlag" */ = {
+		7588B3682D538F8D00921C4D /* Build configuration list for PBXNativeTarget "KnowYourCountries" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7588B3692D538F8D00921C4D /* Debug */,
@@ -544,7 +544,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7588B36B2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "GuessTheFlagTests" */ = {
+		7588B36B2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "KnowYourCountriesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7588B36C2D538F8D00921C4D /* Debug */,
@@ -553,7 +553,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7588B36E2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "GuessTheFlagUITests" */ = {
+		7588B36E2D538F8D00921C4D /* Build configuration list for PBXNativeTarget "KnowYourCountriesUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7588B36F2D538F8D00921C4D /* Debug */,
