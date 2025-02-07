@@ -1,17 +1,16 @@
 //
-//  ContentView.swift
+//  CapitalsView.swift
 //  GuessTheFlag
 //
-//  Created by Vladimir Kolev on 05.02.25.
+//  Created by Vladimir Kolev on 07.02.25.
 //
+
 import SwiftUI
 import ConfettiView
 
-
-struct ContentView: View {
+struct CapitalsView: View {
     @Environment(\.presentationMode) var presentationMode
-    
-    @State private var countries = COUNTRIES.shuffled()
+    @State private var countries = CAPITALS.shuffled()
     @State private var correctAnswer = Int.random(in: 0...2)
     
     @State private var showingScore = false
@@ -19,55 +18,49 @@ struct ContentView: View {
     @State private var showConfetti = false
     
     @State private var userScore = 0
-    @EnvironmentObject private var currentScore: HighScore
-    
+    @EnvironmentObject private var currentScore: HighScoreCapitals
     
     var body: some View {
         ZStack {
             RadialGradient(stops: [
-                .init(color: Color(red: 0.1, green: 0.2, blue: 0.45), location: 0.3),
-                .init(color: Color(red: 0.76, green: 0.15, blue: 0.26), location: 0.3)
+                .init(color: Color(red: 0.5, green: 0.10, blue: 0.50), location: 0.3),
+                .init(color: Color(red: 0.2, green: 0.1, blue: 0.45), location: 0.3)
+                
             ], center: .top, startRadius: 200, endRadius: 700)
             .ignoresSafeArea()
             
             VStack {
                 Spacer()
                 
-                Text("Guess the Flag")
+                Text("Guess the Capital")
                     .font(.largeTitle.bold())
-                    .foregroundStyle(.white)
+                    .foregroundStyle(.black)
                 
-                VStack(spacing: 15) {
-                    VStack {
-                        Text("Tap the flag of")
-                            .foregroundStyle(.secondary)
-                            .font(.subheadline.weight(.heavy))
-                        
-                        Text(LocalizedStringKey(countries[correctAnswer]))
-                            .font(.largeTitle.weight(.semibold))
-                    }
+                VStack {
+                    Text(LocalizedStringKey(countries[correctAnswer].name))
+                        .font(.largeTitle.weight(.semibold))
+                        .foregroundStyle(.white)
                     
                     ForEach(0..<3) { number in
                         Button {
-                            flagTapped(number)
+                            capitalTapped(number)
                         } label: {
-                            Image(countries[number])
-                                .resizable()
+                            Text(LocalizedStringKey(countries[number].capital))
                                 .padding(.all, 10.0)
-                                .aspectRatio(contentMode: .fill)
+                                .font(.title2.weight(.bold))
+                                .foregroundStyle(.black)
                                 .frame(
-                                    width: 200,
+                                    width: 300,
                                     height: 100
                                 )
-                                .clipped()
+                                .background(.regularMaterial)
+                                .clipShape(.rect(cornerRadius: 20))
                                 .shadow(radius: 5)
                         }
                     }
-                }
-                .frame(maxWidth: .infinity)
-                .padding(.vertical, 20)
-                .background(.regularMaterial)
-                .clipShape(.rect(cornerRadius: 20))
+                }.frame(maxWidth: .infinity)
+                    .padding(.vertical, 20)
+                    
                 
                 Spacer()
                 Spacer()
@@ -78,18 +71,16 @@ struct ContentView: View {
                     .overlay(ConfettiView(isPresented: $showConfetti))
                 
                 Spacer()
-            }
-            .padding()
-        }
-        .alert(scoreTitle, isPresented: $showingScore) {
+            }.padding()
+        }.alert(scoreTitle, isPresented: $showingScore) {
             Button("Continue", action: askQuestion)
         } message: {
             Text("Your score is \(currentScore.score)")
         }.navigationBarHidden(true)
     }
     
-    func flagTapped(_ number: Int) {
-        if number == correctAnswer {
+    func capitalTapped(_ number: Int) {
+        if countries[number].capital == countries[correctAnswer].capital {
             scoreTitle = "Correct"
             userScore += 1
             currentScore.score += 1
@@ -106,7 +97,6 @@ struct ContentView: View {
             userScore = 0
             currentScore.score = 0
         }
-        
         showingScore = true
     }
     
@@ -119,7 +109,8 @@ struct ContentView: View {
         correctAnswer = Int.random(in: 0...2)
     }
 }
-//
-//#Preview {
-//    ContentView()
-//}
+
+#Preview {
+    CapitalsView()
+        .environmentObject(HighScoreCapitals())
+}

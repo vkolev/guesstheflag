@@ -9,11 +9,13 @@ import SwiftUI
 
 @main
 struct GuessTheFlagApp: App {
-    var score = HighScore()
+    var scoreFlags = HighScoreFlags()
+    var scoreCapitals = HighScoreCapitals()
     var body: some Scene {
         WindowGroup {
             StartView()
-                .environmentObject(score)
+                .environmentObject(scoreFlags)
+                .environmentObject(scoreCapitals)
         }
     }
 }

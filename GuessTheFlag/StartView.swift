@@ -11,7 +11,8 @@ struct StartView : View {
     
     @State var isPresenting = false
     
-    @EnvironmentObject var score: HighScore
+    @EnvironmentObject var scoreFlags: HighScoreFlags
+    @EnvironmentObject var scoreCapitals: HighScoreCapitals
     
     var body : some View {
         NavigationView {
@@ -33,22 +34,43 @@ struct StartView : View {
                             .shadow(radius: 20)
                     }
                     
-                    Text("High score: \(score.highScore)")
+                    Text("Flags high score: \(scoreFlags.highScore)")
                         .bold()
+                        .padding(.all, 10)
+                    Text("Capitals high Score: \(scoreCapitals.highScore)")
+                        .bold()
+                        .padding(.all, 10)
                     Spacer()
                     VStack {
                         
                         
                         NavigationLink(
-                            destination: ContentView()
+                            destination: FlagsView()
                         ) {
-                            Label("Start Game", systemImage: "play.fill")
-                        }.foregroundColor(Color(red: 0.1, green: 0.2, blue: 0.45))
+                            Label("Start Flags Game", systemImage: "flag.fill")
+                        }.foregroundColor(Color(red: 0.1, green: 0.2, blue: 0.45)).padding(.all, 30)
+                            .frame(width: 300, height: 50)
+                            .background(.regularMaterial)
+                            .clipShape(.rect(cornerRadius: 20))
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 20)
+                                    .stroke(.white, lineWidth: 4)
+                            )
+                            .shadow(radius: 10)
+                        
+                        NavigationLink(destination: CapitalsView()) {
+                            Label("Start Capitals Game", systemImage: "location.fill")
+                        }.foregroundColor(Color(red: 0.1, green: 0.2, blue: 0.45)).padding(.all, 30)
+                            .frame(width: 300, height: 50)
+                            .background(.regularMaterial)
+                            .clipShape(.rect(cornerRadius: 20))
+                            .overlay(
+                                RoundedRectangle(cornerRadius: 20)
+                                    .stroke(.white, lineWidth: 4)
+                            )
+                            .shadow(radius: 10)
                     }
-                    .padding(.all, 30)
-                    .background(.regularMaterial)
-                    .clipShape(.rect(cornerRadius: 20))
-                    .shadow(radius: 10)
+                    
                     Spacer()
                     }.ignoresSafeArea()
                 }
@@ -58,7 +80,8 @@ struct StartView : View {
     }
 }
 
-//
-//#Preview {
-//    StartView().environment(HighScore())
-//}
+
+#Preview {
+    StartView().environmentObject(HighScoreFlags())
+        .environmentObject(HighScoreCapitals())
+}

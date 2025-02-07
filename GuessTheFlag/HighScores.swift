@@ -6,7 +6,12 @@
 //
 import SwiftUI
 
-class HighScore: ObservableObject {
+class HighScoreFlags: ObservableObject {
+    @Published var score: Int = 0
+    @Published var highScore: Int = 0
+}
+
+class HighScoreCapitals: ObservableObject {
     @Published var score: Int = 0
     @Published var highScore: Int = 0
 }

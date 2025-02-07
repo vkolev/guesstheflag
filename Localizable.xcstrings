@@ -1,14 +1,111 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Abu Dhabi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Абу Даби"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abu Dhabi"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abu Dhabi"
+          }
+        }
+      }
+    },
+    "Abuja" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Абуджа"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abuja"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abuja"
+          }
+        }
+      }
+    },
+    "Accra" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Акра"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accra"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accra"
+          }
+        }
+      }
+    },
+    "Addis Ababa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Адис Абеба"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Addis Abeba"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Addis Ababa"
+          }
+        }
+      }
+    },
     "Afghanistan" : {
-      "comment" : "Localizable.strings\n  GuessTheFlag\n\n  Created by Vladimir Kolev on 06.02.25.",
       "extractionState" : "manual",
       "localizations" : {
         "bg-BG" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Афганистан"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afghanistan"
           }
         },
         "en" : {
@@ -28,6 +125,12 @@
             "value" : "Оландски острови"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ålandinseln"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43,6 +146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Албания"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albanien"
           }
         },
         "en" : {
@@ -62,10 +171,39 @@
             "value" : "Алжир"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algerien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Algeria"
+          }
+        }
+      }
+    },
+    "Algiers" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Алжир"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algier"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algiers"
           }
         }
       }
@@ -79,10 +217,62 @@
             "value" : "Американска Самоа"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amerikanisch-Samoa"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "American Samoa"
+          }
+        }
+      }
+    },
+    "Amman" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аман"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amman"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amman"
+          }
+        }
+      }
+    },
+    "Amsterdam" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Амстердам"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amsterdam"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amsterdam"
           }
         }
       }
@@ -96,10 +286,39 @@
             "value" : "Андора"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andorra"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Andorra"
+          }
+        }
+      }
+    },
+    "Andorra la Vella" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Андора ла Веля"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andorra la Vella"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andorra la Vella"
           }
         }
       }
@@ -111,6 +330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ангола"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angola"
           }
         },
         "en" : {
@@ -130,10 +355,62 @@
             "value" : "Ангулия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anguilla"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anguilla"
+          }
+        }
+      }
+    },
+    "Ankara" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Анкара"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ankara"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ankara"
+          }
+        }
+      }
+    },
+    "Antananarivo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Антананариву"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antananarivo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antananarivo"
           }
         }
       }
@@ -145,6 +422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Антарктида"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antarktis"
           }
         },
         "en" : {
@@ -164,10 +447,39 @@
             "value" : "Антигуа и Барбуда"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Antigua und Barbuda"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Antigua and Barbuda"
+          }
+        }
+      }
+    },
+    "Apia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Апия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apia"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apia"
           }
         }
       }
@@ -179,6 +491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Аржентина"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argentinien"
           }
         },
         "en" : {
@@ -198,6 +516,12 @@
             "value" : "Армения"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Armenien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -215,10 +539,108 @@
             "value" : "Аруба"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aruba"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aruba"
+          }
+        }
+      }
+    },
+    "Ashgabat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ашхабад"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aşgabat"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ashgabat"
+          }
+        }
+      }
+    },
+    "Asmara" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Асмара"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asmara"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asmara"
+          }
+        }
+      }
+    },
+    "Asunción" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Асунсион"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asunción"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asunción"
+          }
+        }
+      }
+    },
+    "Athens" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Атина"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Athen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Athens"
           }
         }
       }
@@ -230,6 +652,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Австралия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Australien"
           }
         },
         "en" : {
@@ -249,6 +677,12 @@
             "value" : "Австрия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Österreich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -266,10 +700,39 @@
             "value" : "Азербайджан"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aserbaidschan"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Azerbaijan"
+          }
+        }
+      }
+    },
+    "Baghdad" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Багдад"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagdad"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baghdad"
           }
         }
       }
@@ -281,6 +744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Бахами"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahamas"
           }
         },
         "en" : {
@@ -300,10 +769,108 @@
             "value" : "Бахрейн"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahrain"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bahrain"
+          }
+        }
+      }
+    },
+    "Baku" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Баку"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baku"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baku"
+          }
+        }
+      }
+    },
+    "Bamako" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бамако"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bamako"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bamako"
+          }
+        }
+      }
+    },
+    "Bandar Seri Begawan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бандар Сери Бегаван"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bandar Seri Begawan"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bandar Seri Begawan"
+          }
+        }
+      }
+    },
+    "Bangkok" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Банкок"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bangkok"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bangkok"
           }
         }
       }
@@ -317,10 +884,62 @@
             "value" : "Бангладеш"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bangladesch"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bangladesh"
+          }
+        }
+      }
+    },
+    "Bangui" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Банги"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bangui"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bangui"
+          }
+        }
+      }
+    },
+    "Banjul" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Банджул"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banjul"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banjul"
           }
         }
       }
@@ -334,10 +953,62 @@
             "value" : "Бадбадос"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barbados"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barbados"
+          }
+        }
+      }
+    },
+    "Basseterre" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бастер"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basseterre"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basseterre"
+          }
+        }
+      }
+    },
+    "Beirut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бейрут"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beirut"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beirut"
           }
         }
       }
@@ -349,6 +1020,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Беларус"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belarus"
           }
         },
         "en" : {
@@ -368,10 +1045,39 @@
             "value" : "Белгия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belgien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Belgium"
+          }
+        }
+      }
+    },
+    "Belgrade" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Белград"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belgrad"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belgrade"
           }
         }
       }
@@ -385,10 +1091,39 @@
             "value" : "Белиз"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belize"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Belize"
+          }
+        }
+      }
+    },
+    "Belmopan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Белмопан"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belmopan"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belmopan"
           }
         }
       }
@@ -402,10 +1137,39 @@
             "value" : "Бенин"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benin"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Benin"
+          }
+        }
+      }
+    },
+    "Berlin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Берлин"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berlin"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berlin"
           }
         }
       }
@@ -419,10 +1183,39 @@
             "value" : "Бермуда"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bermuda"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bermuda"
+          }
+        }
+      }
+    },
+    "Bern" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Берн"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bern"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bern"
           }
         }
       }
@@ -436,10 +1229,85 @@
             "value" : "Бутан"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bhutan"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bhutan"
+          }
+        }
+      }
+    },
+    "Bishkek" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бишкек"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bischkek"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bishkek"
+          }
+        }
+      }
+    },
+    "Bissau" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бисау"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bissau"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bissau"
+          }
+        }
+      }
+    },
+    "Bogotá" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Богота"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bogotá"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bogotá"
           }
         }
       }
@@ -451,6 +1319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Боливия, Многонационална държава"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolivien, Mehrnationale Staat"
           }
         },
         "en" : {
@@ -470,6 +1344,12 @@
             "value" : "Бонер"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonaire, Sint Eustatius und Saba"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -485,6 +1365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Босна и Херцеговина"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bosnien und Herzegowina"
           }
         },
         "en" : {
@@ -504,6 +1390,12 @@
             "value" : "Ботсвана"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Botsuana"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -521,10 +1413,62 @@
             "value" : "Буве"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouvetinsel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bouvet Island"
+          }
+        }
+      }
+    },
+    "Brasília " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бразилия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brasilien"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brasília "
+          }
+        }
+      }
+    },
+    "Bratislava" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Братислава"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bratislava"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bratislava"
           }
         }
       }
@@ -538,10 +1482,62 @@
             "value" : "Бразилия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brasilien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Brazil"
+          }
+        }
+      }
+    },
+    "Brazzaville" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бразавил"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brazzaville"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brazzaville"
+          }
+        }
+      }
+    },
+    "Bridgetown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бриджтаун"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bridgetown"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bridgetown"
           }
         }
       }
@@ -553,6 +1549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Британска Индоокеанска Територия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Britisches Territorium im Indischen Ozean"
           }
         },
         "en" : {
@@ -572,10 +1574,108 @@
             "value" : "Бруней Даруссалам"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brunei Darussalam"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Brunei Darussalam"
+          }
+        }
+      }
+    },
+    "Brussels" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Брюксел"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brüssel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brussels"
+          }
+        }
+      }
+    },
+    "Bucharest" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Букурещ"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bukarest"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bucharest"
+          }
+        }
+      }
+    },
+    "Budapest" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бедапеща"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Budapest"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Budapest"
+          }
+        }
+      }
+    },
+    "Buenos Aires" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Буенос Айрес"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buenos Aires"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buenos Aires"
           }
         }
       }
@@ -587,6 +1687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "България"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bulgarien"
           }
         },
         "en" : {
@@ -606,6 +1712,12 @@
             "value" : "Буркина Фасо"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Burkina Faso"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -621,6 +1733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Бурунди"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Burundi"
           }
         },
         "en" : {
@@ -640,10 +1758,39 @@
             "value" : "Кабо Верде"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kap Verde"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cabo Verde"
+          }
+        }
+      }
+    },
+    "Cairo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кайро"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kairo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cairo"
           }
         }
       }
@@ -655,6 +1802,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Камбоджа"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kambodscha"
           }
         },
         "en" : {
@@ -674,6 +1827,12 @@
             "value" : "Камерун"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamerun"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -691,10 +1850,101 @@
             "value" : "Канада"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanada"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Canada"
+          }
+        }
+      }
+    },
+    "Canberra" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Канбера"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canberra"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canberra"
+          }
+        }
+      }
+    },
+    "Capitals high Score: %lld" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Столици рекорд: %lld"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hauptstädte Rekord: %lld"
+          }
+        }
+      }
+    },
+    "Caracas" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каракас"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caracas"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caracas"
+          }
+        }
+      }
+    },
+    "Castries" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кастрийс"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Castries"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Castries"
           }
         }
       }
@@ -706,6 +1956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каймански Острови"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaimaninseln"
           }
         },
         "en" : {
@@ -725,6 +1981,12 @@
             "value" : "Централна Африканска Република"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zentralafrikanische Republik"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -740,6 +2002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Чад"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tschad"
           }
         },
         "en" : {
@@ -759,6 +2027,12 @@
             "value" : "Чили"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chile"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -776,10 +2050,39 @@
             "value" : "Китай"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "China"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "China"
+          }
+        }
+      }
+    },
+    "Chișinău" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кишинев"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kischinau"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chișinău"
           }
         }
       }
@@ -793,10 +2096,39 @@
             "value" : "Коледни Острови"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weihnachtsinsel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Christmas Island"
+          }
+        }
+      }
+    },
+    "City of San Marino" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сан Марино град"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stadt San Marino"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "City of San Marino"
           }
         }
       }
@@ -808,6 +2140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кокосови острови"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kokosinseln"
           }
         },
         "en" : {
@@ -827,6 +2165,12 @@
             "value" : "Колумбия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolumbien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -844,10 +2188,39 @@
             "value" : "Коморски Острови"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komoren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comoros"
+          }
+        }
+      }
+    },
+    "Conakry" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Конакри"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conakry"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conakry"
           }
         }
       }
@@ -859,6 +2232,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Конго"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kongo"
           }
         },
         "en" : {
@@ -878,6 +2257,12 @@
             "value" : "Конго, Демократична република на"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Republik Kongo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -893,6 +2278,12 @@
             "state" : "translated",
             "value" : "Продължи"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortsetzen"
+          }
         }
       }
     },
@@ -905,10 +2296,39 @@
             "value" : "Кук (острови)"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cookinseln"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cook Islands"
+          }
+        }
+      }
+    },
+    "Copenhagen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копенхаген"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopenhagen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copenhagen"
           }
         }
       }
@@ -920,6 +2340,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Коста Рика"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costa Rica"
           }
         },
         "en" : {
@@ -939,6 +2365,12 @@
             "value" : "Кот д'Ивоар"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elfenbeinküste"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -954,6 +2386,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Хърватия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kroatien"
           }
         },
         "en" : {
@@ -973,6 +2411,12 @@
             "value" : "Куба"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuba"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -988,6 +2432,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кюрасао"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Curaçao"
           }
         },
         "en" : {
@@ -1007,6 +2457,12 @@
             "value" : "Кипът"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zypern"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1024,10 +2480,62 @@
             "value" : "Чехия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tschechien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Czechia"
+          }
+        }
+      }
+    },
+    "Dakar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дакар"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dakar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dakar"
+          }
+        }
+      }
+    },
+    "Damascus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дамаск"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Damaskus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Damascus"
           }
         }
       }
@@ -1041,10 +2549,62 @@
             "value" : "Дания"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dänemark"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Denmark"
+          }
+        }
+      }
+    },
+    "Dhaka" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дака"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dhaka"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dhaka"
+          }
+        }
+      }
+    },
+    "Dili" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дили"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dili"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dili"
           }
         }
       }
@@ -1058,10 +2618,62 @@
             "value" : "Джибути"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dschibuti"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Djibouti"
+          }
+        }
+      }
+    },
+    "Dodoma" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додома"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodoma"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodoma"
+          }
+        }
+      }
+    },
+    "Doha" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доха"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doha"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doha"
           }
         }
       }
@@ -1073,6 +2685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Доминикана"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dominica"
           }
         },
         "en" : {
@@ -1092,10 +2710,62 @@
             "value" : "Доминиканска Република"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dominikanische Republik"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dominican Republic"
+          }
+        }
+      }
+    },
+    "Dublin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дъблин"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dublin"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dublin"
+          }
+        }
+      }
+    },
+    "Dushanbe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Душанбе"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duschanbe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dushanbe"
           }
         }
       }
@@ -1107,6 +2777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Еквадор"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ecuador"
           }
         },
         "en" : {
@@ -1126,6 +2802,12 @@
             "value" : "Египет"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ägypten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1141,6 +2823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ел Салвадор"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Salvador"
           }
         },
         "en" : {
@@ -1160,6 +2848,12 @@
             "value" : "Екваториална Гвинея"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Äquatorialguinea"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1175,6 +2869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Еритрея"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eritrea"
           }
         },
         "en" : {
@@ -1194,6 +2894,12 @@
             "value" : "Естония"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estland"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1209,6 +2915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Есватини"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eswatini"
           }
         },
         "en" : {
@@ -1228,6 +2940,12 @@
             "value" : "Етиопия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Äthiopien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1243,6 +2961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Фалкландски Острови (Малдиви)"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falklandinseln (Malwinen)"
           }
         },
         "en" : {
@@ -1262,6 +2986,12 @@
             "value" : "Фарьорски острови"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Färöer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1277,6 +3007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Фиджи"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fidschi"
           }
         },
         "en" : {
@@ -1296,10 +3032,32 @@
             "value" : "Финландия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finnland"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Finland"
+          }
+        }
+      }
+    },
+    "Flags high score: %lld" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Флагове рекорд: %lld"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flaggen Rekord: %lld"
           }
         }
       }
@@ -1313,10 +3071,39 @@
             "value" : "Франция"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frankreich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "France"
+          }
+        }
+      }
+    },
+    "Freetown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фрийтаун"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Freetown"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Freetown"
           }
         }
       }
@@ -1328,6 +3115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Френска Гвинея"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Französische Guinea"
           }
         },
         "en" : {
@@ -1347,6 +3140,12 @@
             "value" : "Френска Полинезия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Französisch-Polynesien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1364,10 +3163,39 @@
             "value" : "Френски Южни Територии"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Französische Süd- und Antarktisgebiete"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "French Southern Territories"
+          }
+        }
+      }
+    },
+    "Funafuti" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фунафути"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funafuti"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funafuti"
           }
         }
       }
@@ -1381,10 +3209,39 @@
             "value" : "Габон"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gabun"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gabon"
+          }
+        }
+      }
+    },
+    "Gaborone" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Габороне"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gaborone"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gaborone"
           }
         }
       }
@@ -1398,10 +3255,39 @@
             "value" : "Гамбия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gambia"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gambia"
+          }
+        }
+      }
+    },
+    "Georgetown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джорджтаун"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Georgetown"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Georgetown"
           }
         }
       }
@@ -1413,6 +3299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Грузия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Georgien"
           }
         },
         "en" : {
@@ -1432,6 +3324,12 @@
             "value" : "Германия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deutschland"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1447,6 +3345,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Гана"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghana"
           }
         },
         "en" : {
@@ -1466,10 +3370,39 @@
             "value" : "Гибралтар"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gibraltar"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gibraltar"
+          }
+        }
+      }
+    },
+    "Gitega" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гитега"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gitega"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gitega"
           }
         }
       }
@@ -1481,6 +3414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Гърция"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Griechenland"
           }
         },
         "en" : {
@@ -1500,6 +3439,12 @@
             "value" : "Гренландия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grönland"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1515,6 +3460,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Гренада"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grenada"
           }
         },
         "en" : {
@@ -1534,6 +3485,12 @@
             "value" : "Гваделупа"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guadeloupe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1549,6 +3506,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Гуам"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guam"
           }
         },
         "en" : {
@@ -1568,10 +3531,39 @@
             "value" : "Гватемала"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guatemala"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guatemala"
+          }
+        }
+      }
+    },
+    "Guatemala City" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гватемала Град"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guatemala-Stadt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guatemala City"
           }
         }
       }
@@ -1585,10 +3577,32 @@
             "value" : "Гернси"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guernsey"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guernsey"
+          }
+        }
+      }
+    },
+    "Guess the Capital" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Познай столицата"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errate die Hauptstadt"
           }
         }
       }
@@ -1600,6 +3614,12 @@
             "state" : "translated",
             "value" : "Познай Флага"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errate die Flagge"
+          }
         }
       }
     },
@@ -1610,6 +3630,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Гвинея"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guinea"
           }
         },
         "en" : {
@@ -1629,6 +3655,12 @@
             "value" : "Гвинея-Бисау"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guinea-Bissau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1644,6 +3676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Гвиана"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guyana"
           }
         },
         "en" : {
@@ -1663,10 +3701,85 @@
             "value" : "Хаити"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haiti"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Haiti"
+          }
+        }
+      }
+    },
+    "Hanoi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ханой"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hanoi"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hanoi"
+          }
+        }
+      }
+    },
+    "Harare" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хараре"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harare"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harare"
+          }
+        }
+      }
+    },
+    "Havana" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хавана"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Havanna"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Havana"
           }
         }
       }
@@ -1680,6 +3793,12 @@
             "value" : "Хърд И Макдоналд"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heard und McDonaldinseln"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1688,12 +3807,25 @@
         }
       }
     },
-    "High score: %lld" : {
+    "Helsinki" : {
+      "extractionState" : "manual",
       "localizations" : {
         "bg-BG" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рекорд: %lld"
+            "value" : "Хелзинки"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helsinki"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helsinki"
           }
         }
       }
@@ -1705,6 +3837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Свети Престол (Ватиканска Град Държава)"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heiliger Stuhl (Vatican)"
           }
         },
         "en" : {
@@ -1724,6 +3862,12 @@
             "value" : "Хондурас"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honduras"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1741,10 +3885,39 @@
             "value" : "Хонг Конг"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hong Kong"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hong Kong"
+          }
+        }
+      }
+    },
+    "Honiara" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хониара"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honiara"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Honiara"
           }
         }
       }
@@ -1756,6 +3929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Унгария"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungarn"
           }
         },
         "en" : {
@@ -1775,6 +3954,12 @@
             "value" : "Исландия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Island"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1790,6 +3975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Индия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indien"
           }
         },
         "en" : {
@@ -1809,6 +4000,12 @@
             "value" : "Индонезия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indonesien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1824,6 +4021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Иран, Ислямска Република"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Islamische Republik Iran"
           }
         },
         "en" : {
@@ -1843,6 +4046,12 @@
             "value" : "Ирак"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Irak"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1860,10 +4069,39 @@
             "value" : "Ирландия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Irland"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ireland"
+          }
+        }
+      }
+    },
+    "Islamabad" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Исламабад"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Islamabad"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Islamabad"
           }
         }
       }
@@ -1875,6 +4113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ман (остров)"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isle of Man"
           }
         },
         "en" : {
@@ -1894,6 +4138,12 @@
             "value" : "Израел"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Israel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1911,10 +4161,39 @@
             "value" : "Италия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Italien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Italy"
+          }
+        }
+      }
+    },
+    "Jakarta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джакарта"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jakarta"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jakarta"
           }
         }
       }
@@ -1926,6 +4205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ямайка"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jamaika"
           }
         },
         "en" : {
@@ -1945,6 +4230,12 @@
             "value" : "Япония"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japan"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1962,10 +4253,39 @@
             "value" : "Джърси"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jersey"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jersey"
+          }
+        }
+      }
+    },
+    "Jerusalem" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Йерусалим"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jerusalem"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jerusalem"
           }
         }
       }
@@ -1979,10 +4299,108 @@
             "value" : "Йордания"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jordanien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jordan"
+          }
+        }
+      }
+    },
+    "Juba" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джуба"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dschuba"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juba"
+          }
+        }
+      }
+    },
+    "Kabul" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кабул"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kabul"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kabul"
+          }
+        }
+      }
+    },
+    "Kampala" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кампала"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kampala"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kampala"
+          }
+        }
+      }
+    },
+    "Kathmandu" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Катманду"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kathmandu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kathmandu"
           }
         }
       }
@@ -1994,6 +4412,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Казахстан"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kasachstan"
           }
         },
         "en" : {
@@ -2013,10 +4437,131 @@
             "value" : "Кения"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kenia"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kenya"
+          }
+        }
+      }
+    },
+    "Khartoum" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хартум"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khartum"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khartoum"
+          }
+        }
+      }
+    },
+    "Kigali" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кигали"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kigali"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kigali"
+          }
+        }
+      }
+    },
+    "Kingston" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кингстън"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kingston"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kingston"
+          }
+        }
+      }
+    },
+    "Kingstown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кингстаун"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kingstown"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kingstown"
+          }
+        }
+      }
+    },
+    "Kinshasa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Киншаса"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kinshasa"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kinshasa"
           }
         }
       }
@@ -2028,6 +4573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Кирибати"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiribati"
           }
         },
         "en" : {
@@ -2047,6 +4598,12 @@
             "value" : "Корея, Демократична Народна Република"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demokratische Volksrepublik Korea"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2064,10 +4621,39 @@
             "value" : "Корея, Република"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Südkorea"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Korea, Republic of"
+          }
+        }
+      }
+    },
+    "Kuala Lumpur" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Куала Лумпур"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuala Lumpur"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuala Lumpur"
           }
         }
       }
@@ -2081,10 +4667,62 @@
             "value" : "Кувейт"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuwait"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kuwait"
+          }
+        }
+      }
+    },
+    "Kuwait City" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кувейт Град"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuwait"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kuwait City"
+          }
+        }
+      }
+    },
+    "Kyiv" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Киев"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiew"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kyiv"
           }
         }
       }
@@ -2096,6 +4734,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Киргистан"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kirgisistan"
           }
         },
         "en" : {
@@ -2115,6 +4759,12 @@
             "value" : "Лаос, Народнодемократична Република"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demokratische Volksrepublik Laos"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2130,6 +4780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Латвия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lettland"
           }
         },
         "en" : {
@@ -2149,6 +4805,12 @@
             "value" : "Ливан"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libanon"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2164,6 +4826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Лесото"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lesotho"
           }
         },
         "en" : {
@@ -2183,10 +4851,39 @@
             "value" : "Либерия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liberia"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Liberia"
+          }
+        }
+      }
+    },
+    "Libreville" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Либревил"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libreville"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libreville"
           }
         }
       }
@@ -2198,6 +4895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Либия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libyen"
           }
         },
         "en" : {
@@ -2217,10 +4920,85 @@
             "value" : "Лихтенщайн"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liechtenstein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Liechtenstein"
+          }
+        }
+      }
+    },
+    "Lilongwe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лилонгве"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lilongwe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lilongwe"
+          }
+        }
+      }
+    },
+    "Lima" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лима"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lima"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lima"
+          }
+        }
+      }
+    },
+    "Lisbon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лисабон"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lissabon"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lisbon"
           }
         }
       }
@@ -2234,10 +5012,131 @@
             "value" : "Литва"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Litauen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lithuania"
+          }
+        }
+      }
+    },
+    "Ljubljana" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Любляна"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ljubljana"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ljubljana"
+          }
+        }
+      }
+    },
+    "Lomé" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ломе"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lomé"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lomé"
+          }
+        }
+      }
+    },
+    "London" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лондон"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "London"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "London"
+          }
+        }
+      }
+    },
+    "Luanda" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Луанда"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luanda"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luanda"
+          }
+        }
+      }
+    },
+    "Lusaka" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лусака"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lusaka"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lusaka"
           }
         }
       }
@@ -2249,6 +5148,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Люксембург"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luxemburg"
           }
         },
         "en" : {
@@ -2268,6 +5173,12 @@
             "value" : "Макао"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Macau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2285,10 +5196,85 @@
             "value" : "Мадагаскар"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Madagaskar"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Madagascar"
+          }
+        }
+      }
+    },
+    "Madrid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мадрид"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Madrid"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Madrid"
+          }
+        }
+      }
+    },
+    "Majuro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Маджуро"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Majuro"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Majuro"
+          }
+        }
+      }
+    },
+    "Malabo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Малабо"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malabo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malabo"
           }
         }
       }
@@ -2300,6 +5286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Малави"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malawi"
           }
         },
         "en" : {
@@ -2319,6 +5311,12 @@
             "value" : "Малайзия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malaysia"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2336,10 +5334,39 @@
             "value" : "Малдиви"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malediven"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maldives"
+          }
+        }
+      }
+    },
+    "Malé" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мале"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malé"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malé"
           }
         }
       }
@@ -2351,6 +5378,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мали"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mali"
           }
         },
         "en" : {
@@ -2370,10 +5403,108 @@
             "value" : "Малта"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malta"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Malta"
+          }
+        }
+      }
+    },
+    "Managua" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Манагуа"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Managua"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Managua"
+          }
+        }
+      }
+    },
+    "Manama" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Манама"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manama"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manama"
+          }
+        }
+      }
+    },
+    "Manila" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Манила"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manila"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manila"
+          }
+        }
+      }
+    },
+    "Maputo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мапуто"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maputo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maputo"
           }
         }
       }
@@ -2385,6 +5516,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Маршалови Острови"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marshallinseln"
           }
         },
         "en" : {
@@ -2404,10 +5541,39 @@
             "value" : "Мартиника"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Martinique"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Martinique"
+          }
+        }
+      }
+    },
+    "Maseru" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Масеру"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maseru"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maseru"
           }
         }
       }
@@ -2419,6 +5585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мавритания"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mauretanien"
           }
         },
         "en" : {
@@ -2438,6 +5610,12 @@
             "value" : "Мавриций"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mauritius"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2455,10 +5633,39 @@
             "value" : "Майот"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mayotte"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mayotte"
+          }
+        }
+      }
+    },
+    "Mbabane" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мбабане"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mbabane"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mbabane"
           }
         }
       }
@@ -2472,10 +5679,39 @@
             "value" : "Мексико"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mexiko"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mexico"
+          }
+        }
+      }
+    },
+    "Mexico City" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мексико град"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mexiko-Stadt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mexico City"
           }
         }
       }
@@ -2489,10 +5725,62 @@
             "value" : "Микронезия, Федералния Щати"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Föderierte Staaten von Mikronesien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Micronesia, Federated States of"
+          }
+        }
+      }
+    },
+    "Minsk" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Минск"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minsk"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minsk"
+          }
+        }
+      }
+    },
+    "Mogadishu" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Могадишу"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mogadischu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mogadishu"
           }
         }
       }
@@ -2504,6 +5792,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Молдова, Република"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Republik Moldau"
           }
         },
         "en" : {
@@ -2523,6 +5817,12 @@
             "value" : "Монако"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monaco"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2540,10 +5840,39 @@
             "value" : "Монголия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mongolei"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mongolia"
+          }
+        }
+      }
+    },
+    "Monrovia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Монровия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monrovia"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monrovia"
           }
         }
       }
@@ -2557,10 +5886,39 @@
             "value" : "Черна Гора"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montenegro"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Montenegro"
+          }
+        }
+      }
+    },
+    "Montevideo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Монтевидео"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montevideo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montevideo"
           }
         }
       }
@@ -2572,6 +5930,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Монсерат"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montserrat"
           }
         },
         "en" : {
@@ -2591,10 +5955,62 @@
             "value" : "Мароко"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marokko"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Morocco"
+          }
+        }
+      }
+    },
+    "Moroni" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Морони"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moroni"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moroni"
+          }
+        }
+      }
+    },
+    "Moscow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Москва"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moskau"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moscow"
           }
         }
       }
@@ -2608,10 +6024,39 @@
             "value" : "Мозамбик"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mosambik"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mozambique"
+          }
+        }
+      }
+    },
+    "Muscat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Маскат"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maskat"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muscat"
           }
         }
       }
@@ -2625,10 +6070,62 @@
             "value" : "Мианмар"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Myanmar"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Myanmar"
+          }
+        }
+      }
+    },
+    "N'Djamena" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нджамена"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "N’Djamena"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "N'Djamena"
+          }
+        }
+      }
+    },
+    "Nairobi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Найроби"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nairobi"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nairobi"
           }
         }
       }
@@ -2642,10 +6139,39 @@
             "value" : "Намибия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namibia"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Namibia"
+          }
+        }
+      }
+    },
+    "Nassau" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Насау"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nassau"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nassau"
           }
         }
       }
@@ -2659,10 +6185,39 @@
             "value" : "Науру"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nauru"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nauru"
+          }
+        }
+      }
+    },
+    "Naypyidaw" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Найпидо"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naypyidaw"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Naypyidaw"
           }
         }
       }
@@ -2674,6 +6229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Непал"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nepal"
           }
         },
         "en" : {
@@ -2693,6 +6254,12 @@
             "value" : "Нидерландия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niederlande"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2710,10 +6277,39 @@
             "value" : "Нова Каледония"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neukaledonien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "New Caledonia"
+          }
+        }
+      }
+    },
+    "New Delhi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ню Делхи"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neu-Delhi"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Delhi"
           }
         }
       }
@@ -2727,10 +6323,62 @@
             "value" : "Нова Зеландия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neuseeland"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "New Zealand"
+          }
+        }
+      }
+    },
+    "Ngerulmud" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нгерулмуд"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngerulmud"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngerulmud"
+          }
+        }
+      }
+    },
+    "Niamey" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ниамей"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niamey"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niamey"
           }
         }
       }
@@ -2744,10 +6392,39 @@
             "value" : "Никарагуа"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicaragua"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nicaragua"
+          }
+        }
+      }
+    },
+    "Nicosia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Никозия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicosia"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicosia"
           }
         }
       }
@@ -2759,6 +6436,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нигер"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niger"
           }
         },
         "en" : {
@@ -2778,6 +6461,12 @@
             "value" : "Нигерия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nigeria"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2793,6 +6482,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ниуе"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niue"
           }
         },
         "en" : {
@@ -2812,6 +6507,12 @@
             "value" : "Норфолк Остров"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Norfolkinsel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2827,6 +6528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Северна Македония"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nordmazedonien"
           }
         },
         "en" : {
@@ -2846,6 +6553,12 @@
             "value" : "Северни Мариански Острови"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nördliche Marianen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2863,10 +6576,85 @@
             "value" : "Норвегия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Norwegen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Norway"
+          }
+        }
+      }
+    },
+    "Nouakchott" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нуакшот"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouakchott"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouakchott"
+          }
+        }
+      }
+    },
+    "Nuku'alofa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нукуалофа"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nukuʻalofa"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuku'alofa"
+          }
+        }
+      }
+    },
+    "Nur-Sultan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Астана"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Astana"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nur-Sultan"
           }
         }
       }
@@ -2880,10 +6668,85 @@
             "value" : "Оман"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oman"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oman"
+          }
+        }
+      }
+    },
+    "Oslo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осло"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oslo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oslo"
+          }
+        }
+      }
+    },
+    "Ottawa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отава"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottawa"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottawa"
+          }
+        }
+      }
+    },
+    "Ouagadougou" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уагадугу"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouagadougou"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouagadougou"
           }
         }
       }
@@ -2895,6 +6758,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пакистан"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pakistan"
           }
         },
         "en" : {
@@ -2914,6 +6783,12 @@
             "value" : "Палау"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2931,10 +6806,39 @@
             "value" : "Палестина, Държава"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Staat Palästina"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Palestine, State of"
+          }
+        }
+      }
+    },
+    "Palikir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Паликир"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palikir"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palikir"
           }
         }
       }
@@ -2948,10 +6852,39 @@
             "value" : "Панама"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panama"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Panama"
+          }
+        }
+      }
+    },
+    "Panama City" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Панама град"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panama-Stadt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panama City"
           }
         }
       }
@@ -2963,6 +6896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Папуа Нова Гвинея"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Papua-Neuguinea"
           }
         },
         "en" : {
@@ -2982,10 +6921,62 @@
             "value" : "Парагвай"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paraguay"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paraguay"
+          }
+        }
+      }
+    },
+    "Paramaribo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Парамарибо"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramaribo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramaribo"
+          }
+        }
+      }
+    },
+    "Paris" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Париж"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paris"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paris"
           }
         }
       }
@@ -2997,6 +6988,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перу"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peru"
           }
         },
         "en" : {
@@ -3016,10 +7013,39 @@
             "value" : "Филипини"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philippinen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Philippines"
+          }
+        }
+      }
+    },
+    "Phnom Penh" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пном Пен"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phnom Penh"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phnom Penh"
           }
         }
       }
@@ -3033,10 +7059,39 @@
             "value" : "Питкерн"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pitcairn"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pitcairn"
+          }
+        }
+      }
+    },
+    "Podgorica" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подгорица"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podgorica"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podgorica"
           }
         }
       }
@@ -3050,10 +7105,154 @@
             "value" : "Полша"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Polen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Poland"
+          }
+        }
+      }
+    },
+    "Port Louis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт Луи"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port Louis"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port Louis"
+          }
+        }
+      }
+    },
+    "Port Moresby" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт Морсби"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port Moresby"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port Moresby"
+          }
+        }
+      }
+    },
+    "Port of Spain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт ъф Спейн"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port of Spain"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port of Spain"
+          }
+        }
+      }
+    },
+    "Port Vila" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт Вила"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port Vila"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port Vila"
+          }
+        }
+      }
+    },
+    "Port-au-Prince" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт о Пренс"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port-au-Prince"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port-au-Prince"
+          }
+        }
+      }
+    },
+    "Porto-Novo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порто Ново"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porto-Novo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porto-Novo"
           }
         }
       }
@@ -3067,10 +7266,62 @@
             "value" : "Португалия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portugal"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Portugal"
+          }
+        }
+      }
+    },
+    "Prague" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прага"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prague"
+          }
+        }
+      }
+    },
+    "Pretoria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Претория"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pretoria"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pretoria"
           }
         }
       }
@@ -3084,10 +7335,39 @@
             "value" : "Пуерто Рико"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puerto Rico"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Puerto Rico"
+          }
+        }
+      }
+    },
+    "Pyongyang" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пхенян"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pjöngjang"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pyongyang"
           }
         }
       }
@@ -3101,10 +7381,62 @@
             "value" : "Катар"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Katar"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Qatar"
+          }
+        }
+      }
+    },
+    "Quito" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кито"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quito"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quito"
+          }
+        }
+      }
+    },
+    "Rabat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рабат"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rabat"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rabat"
           }
         }
       }
@@ -3118,10 +7450,85 @@
             "value" : "Реюнион"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réunion"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réunion"
+          }
+        }
+      }
+    },
+    "Reykjavik" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рейкявик"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reykjavík"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reykjavik"
+          }
+        }
+      }
+    },
+    "Riga" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рига"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riga"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riga"
+          }
+        }
+      }
+    },
+    "Riyadh" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рияд"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riad"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riyadh"
           }
         }
       }
@@ -3135,10 +7542,62 @@
             "value" : "Румъния"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rumänien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Romania"
+          }
+        }
+      }
+    },
+    "Rome" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рим"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rom"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rome"
+          }
+        }
+      }
+    },
+    "Roseau" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розо"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roseau"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roseau"
           }
         }
       }
@@ -3150,6 +7609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Руска Федерация"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Russische Föderation"
           }
         },
         "en" : {
@@ -3169,6 +7634,12 @@
             "value" : "Руанда"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruanda"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3184,6 +7655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сен Бартелми"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint-Barthélemy"
           }
         },
         "en" : {
@@ -3203,10 +7680,39 @@
             "value" : "Света Елена, Възнесение и Тристан да Куня"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "St. Helena, Ascension und Tristan da Cunha"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Saint Helena, Ascension and Tristan da Cunha"
+          }
+        }
+      }
+    },
+    "Saint John's" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сейнт Джонс"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint John's"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint John's"
           }
         }
       }
@@ -3218,6 +7724,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сейнт Китс и Невис"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "St. Kitts und Nevis"
           }
         },
         "en" : {
@@ -3237,6 +7749,12 @@
             "value" : "Сейнт Лусия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "St. Lucia"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3252,6 +7770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сен Мартен (френска част)"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "St. Martin (Französisch)"
           }
         },
         "en" : {
@@ -3271,6 +7795,12 @@
             "value" : "Сен Пиер и Микелон"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saint-Pierre und Miquelon"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3286,6 +7816,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сейнт Винсент и Гренадини"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "St. Vincent und die Grenadinen"
           }
         },
         "en" : {
@@ -3305,10 +7841,39 @@
             "value" : "Самоа"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samoa"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Samoa"
+          }
+        }
+      }
+    },
+    "San José" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сан Хосе"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San José"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San José"
           }
         }
       }
@@ -3322,10 +7887,131 @@
             "value" : "Сан Марино"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San Marino"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "San Marino"
+          }
+        }
+      }
+    },
+    "San Salvador" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сан Салвадор"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San Salvador"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San Salvador"
+          }
+        }
+      }
+    },
+    "Sana'a" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сана"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sanaa"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sana'a"
+          }
+        }
+      }
+    },
+    "Santiago" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сантяго"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Santiago"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Santiago"
+          }
+        }
+      }
+    },
+    "Santo Domingo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Санто Доминго"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Santo Domingo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Santo Domingo"
+          }
+        }
+      }
+    },
+    "São Tomé" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сао Томе град"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "São Tomé"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "São Tomé"
           }
         }
       }
@@ -3339,10 +8025,39 @@
             "value" : "Сао Томе и Принсипи"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "São Tomé und Príncipe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sao Tome and Principe"
+          }
+        }
+      }
+    },
+    "Sarajevo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сараево"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sarajevo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sarajevo"
           }
         }
       }
@@ -3354,6 +8069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Саудитска Арабия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saudi-Arabien"
           }
         },
         "en" : {
@@ -3371,6 +8092,12 @@
             "state" : "translated",
             "value" : "Точки: %lld"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Punktzahl: %lld"
+          }
         }
       }
     },
@@ -3383,10 +8110,39 @@
             "value" : "Сенегал"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senegal"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Senegal"
+          }
+        }
+      }
+    },
+    "Seoul" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сеул"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seoul"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seoul"
           }
         }
       }
@@ -3398,6 +8154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сърбия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serbien"
           }
         },
         "en" : {
@@ -3417,6 +8179,12 @@
             "value" : "Сейшели"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seychellen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3432,6 +8200,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сиера Леоне"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sierra Leone"
           }
         },
         "en" : {
@@ -3451,6 +8225,12 @@
             "value" : "Сингапур"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Singapur"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3468,10 +8248,39 @@
             "value" : "Сина Мартен (датска част)"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sint Maarten (Niedertändisch)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sint Maarten (Dutch part)"
+          }
+        }
+      }
+    },
+    "Skopje" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скопие"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skopje"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skopje"
           }
         }
       }
@@ -3483,6 +8292,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Словакия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slovakei"
           }
         },
         "en" : {
@@ -3502,10 +8317,39 @@
             "value" : "Словения"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slovenien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Slovenia"
+          }
+        }
+      }
+    },
+    "Sofia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "София"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sofia"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sofia"
           }
         }
       }
@@ -3517,6 +8361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Соломонови Острови"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salomonen"
           }
         },
         "en" : {
@@ -3536,6 +8386,12 @@
             "value" : "Сомалия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somalia"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3551,6 +8407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Южна Африка"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Südafrika"
           }
         },
         "en" : {
@@ -3570,6 +8432,12 @@
             "value" : "Южна Джорджия и Южни Сандвичеви острови"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Südgeorgien und die Südlichen Sandwichinseln"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3587,10 +8455,39 @@
             "value" : "Южен Судан"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Südsudan"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "South Sudan"
+          }
+        }
+      }
+    },
+    "South Tarawa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Южна Тарауа"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "South Tarawa"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "South Tarawa"
           }
         }
       }
@@ -3604,10 +8501,39 @@
             "value" : "Испания"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spanien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spain"
+          }
+        }
+      }
+    },
+    "Sri Jayawardenepura Kotte" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шри Джаяварданапура Коте"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sri Jayewardenepura Kotte"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sri Jayawardenepura Kotte"
           }
         }
       }
@@ -3621,6 +8547,12 @@
             "value" : "Шри Ланка"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sri Lanka"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3629,12 +8561,103 @@
         }
       }
     },
-    "Start Game" : {
+    "St. George's" : {
+      "extractionState" : "manual",
       "localizations" : {
         "bg-BG" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нова Игра"
+            "value" : "Сейнт Джорджис"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "St. George’s"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "St. George's"
+          }
+        }
+      }
+    },
+    "Start Capitals Game" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Започни игра Столици"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte Haupstädte Spiel"
+          }
+        }
+      }
+    },
+    "Start Flags Game" : {
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Започни игра Флагове"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starte Flaggen Spiel"
+          }
+        }
+      }
+    },
+    "Stockholm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стокхолм"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stockholm"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stockholm"
+          }
+        }
+      }
+    },
+    "Sucre" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сукре"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sucre"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sucre"
           }
         }
       }
@@ -3646,6 +8669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Судан"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sudan"
           }
         },
         "en" : {
@@ -3665,10 +8694,39 @@
             "value" : "Суринам"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suriname"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suriname"
+          }
+        }
+      }
+    },
+    "Suva" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сува"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suva"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suva"
           }
         }
       }
@@ -3680,6 +8738,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Свалбард и Ян Майен"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svalbard und Jan Mayen"
           }
         },
         "en" : {
@@ -3699,6 +8763,12 @@
             "value" : "Швеция"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schweden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3714,6 +8784,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Швейцария"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schweiz"
           }
         },
         "en" : {
@@ -3733,6 +8809,12 @@
             "value" : "Сирия"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Syrien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3748,6 +8830,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тайван, Провинция на Китай"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taiwan, Republik China"
           }
         },
         "en" : {
@@ -3767,10 +8855,39 @@
             "value" : "Таджикистан"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tadschikistan"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tajikistan"
+          }
+        }
+      }
+    },
+    "Tallinn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Талин"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallinn"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallinn"
           }
         }
       }
@@ -3782,6 +8899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Танзания, Обединена Република"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vereinigte Republik Tansania"
           }
         },
         "en" : {
@@ -3799,6 +8922,104 @@
             "state" : "translated",
             "value" : "Избери флага на"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippen Sie auf die Flagge von"
+          }
+        }
+      }
+    },
+    "Tashkent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ташкент"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taschkent"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tashkent"
+          }
+        }
+      }
+    },
+    "Tbilisi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тбилиси"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiflis"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tbilisi"
+          }
+        }
+      }
+    },
+    "Tegucigalpa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тегусигалпа"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tegucigalpa"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tegucigalpa"
+          }
+        }
+      }
+    },
+    "Tehran" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Техеран"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teheran"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tehran"
+          }
         }
       }
     },
@@ -3811,10 +9032,39 @@
             "value" : "Тайланд"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thailand"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thailand"
+          }
+        }
+      }
+    },
+    "Thimphu" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тхимпху"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thimphu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thimphu"
           }
         }
       }
@@ -3828,10 +9078,39 @@
             "value" : "Източен Тимор"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demokratische Republik Timor-Leste"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Timor-Leste"
+          }
+        }
+      }
+    },
+    "Tirana" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тирана"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tirana"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tirana"
           }
         }
       }
@@ -3843,6 +9122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Того"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Togo"
           }
         },
         "en" : {
@@ -3862,10 +9147,39 @@
             "value" : "Токелау"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tokelau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tokelau"
+          }
+        }
+      }
+    },
+    "Tokyo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Токио"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tokio"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tokyo"
           }
         }
       }
@@ -3877,6 +9191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тонга"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tonga"
           }
         },
         "en" : {
@@ -3896,10 +9216,62 @@
             "value" : "Тринидад и Тобаго"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trinidad und Tobago"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trinidad and Tobago"
+          }
+        }
+      }
+    },
+    "Tripoli" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Триполи"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tripolis"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tripoli"
+          }
+        }
+      }
+    },
+    "Tunis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тунис"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tunis"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tunis"
           }
         }
       }
@@ -3911,6 +9283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тунис"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tunesien"
           }
         },
         "en" : {
@@ -3930,6 +9308,12 @@
             "value" : "Турция"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Türkei"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3945,6 +9329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Туркменистан"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turkmenistan"
           }
         },
         "en" : {
@@ -3964,6 +9354,12 @@
             "value" : "Търкс и Кайкос"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turks- und Caicosinseln"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3979,6 +9375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тувалу"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuvalu"
           }
         },
         "en" : {
@@ -3998,6 +9400,12 @@
             "value" : "Уганда"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uganda"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4015,10 +9423,39 @@
             "value" : "Украйна"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukraine"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ukraine"
+          }
+        }
+      }
+    },
+    "Ulan Bator" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Улан Батор"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ulaanbaatar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ulan Bator"
           }
         }
       }
@@ -4030,6 +9467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Обединени Арабски Емирства"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vereinigte Arabische Emirate"
           }
         },
         "en" : {
@@ -4049,6 +9492,12 @@
             "value" : "Обединено Кралство"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vereinigtes Königreich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4064,6 +9513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Съединени Американски Щати"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vereinigte Staaten"
           }
         },
         "en" : {
@@ -4083,6 +9538,12 @@
             "value" : "Малки далечни острови на САЩ"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "United States Minor Outlying Islands"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4098,6 +9559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Уругвай"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uruguay"
           }
         },
         "en" : {
@@ -4117,10 +9584,62 @@
             "value" : "Узбекистан"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usbekistan"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uzbekistan"
+          }
+        }
+      }
+    },
+    "Vaduz" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вадуц"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaduz"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaduz"
+          }
+        }
+      }
+    },
+    "Valletta" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Валета"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valletta"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valletta"
           }
         }
       }
@@ -4132,6 +9651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вануату"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vanuatu"
           }
         },
         "en" : {
@@ -4151,10 +9676,62 @@
             "value" : "Венецуела, Боливарска Република"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolivarische Republik Venezuela"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Venezuela, Bolivarian Republic of"
+          }
+        }
+      }
+    },
+    "Victoria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виктория"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Victoria"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Victoria"
+          }
+        }
+      }
+    },
+    "Vienna" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виена"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wien"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vienna"
           }
         }
       }
@@ -4168,10 +9745,39 @@
             "value" : "Виетнам"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnam"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Viet Nam"
+          }
+        }
+      }
+    },
+    "Vilnius" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вилнюс"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vilnius"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vilnius"
           }
         }
       }
@@ -4183,6 +9789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вирджински Острови, Британски"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jungferninseln, Britisch"
           }
         },
         "en" : {
@@ -4202,6 +9814,12 @@
             "value" : "Вирджински Острови, С.Щ."
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jungferninseln, U.S."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4219,10 +9837,85 @@
             "value" : "Уолис и Футуна"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wallis und Futuna"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wallis and Futuna"
+          }
+        }
+      }
+    },
+    "Warsaw" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Варшава"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warschau"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warsaw"
+          }
+        }
+      }
+    },
+    "Washington, D.C." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вашингтон"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Washington, D.C."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Washington, D.C."
+          }
+        }
+      }
+    },
+    "Wellington" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уелингтън"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wellington"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wellington"
           }
         }
       }
@@ -4236,10 +9929,108 @@
             "value" : "Западна Сахара"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Westsahara"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Western Sahara"
+          }
+        }
+      }
+    },
+    "Windhoek" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виндхук"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windhoek"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windhoek"
+          }
+        }
+      }
+    },
+    "Yamoussoukro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ямусукро"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yamoussoukro"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yamoussoukro"
+          }
+        }
+      }
+    },
+    "Yaoundé" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Яунде"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jaunde"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yaoundé"
+          }
+        }
+      }
+    },
+    "Yaren" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ярен"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yaren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yaren"
           }
         }
       }
@@ -4253,10 +10044,39 @@
             "value" : "Йемен"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jemen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yemen"
+          }
+        }
+      }
+    },
+    "Yerevan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ереван"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jerewan"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yerevan"
           }
         }
       }
@@ -4268,6 +10088,35 @@
             "state" : "translated",
             "value" : "Твоят резултат е: %lld"
           }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihre Punktzahl ist %lld"
+          }
+        }
+      }
+    },
+    "Zagreb" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "bg-BG" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загреб"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zagreb"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zagreb"
+          }
         }
       }
     },
@@ -4278,6 +10127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Замбия"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sambia"
           }
         },
         "en" : {
@@ -4295,6 +10150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Зимбабве"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simbabwe"
           }
         },
         "en" : {
